@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Memory Stone",
+        "id": [
+            46,
+            39
+        ],
+        "places": [
+            "Oridys's Rise",
+            "Converted Tower",
+            "Raya Lucaria Academy",
+            "Testu's Rise",
+            "Seluvis's Rise",
+            "Hermit Village",
+            "Lenne's Rise",
+            "Roundtable Hold"
+        ]
+    },
+    {
+        "name": "Talisman Pouch",
+        "id": [
+            56,
+            39
+        ],
+        "places": [
+            "Stormhill",
+            "Roundtable Hold",
+            "Leyndell Royal Capital"
+        ]
+    },
+    {
+        "name": "Cracked Pot",
+        "id": [
+            28,
+            37
+        ],
+        "places": [
+            "Stormveil Castle",
+            "Stormveil Castle",
+            "Raya Lucaria Academy",
+            "Groveside Cave",
+            "Caria Manor",
+            "Leyndell Royal Capital",
+            "Auriza Side Tomb",
+            "Auriza Side Tomb",
+            "Auriza Side Tomb",
+            "Auriza Side Tomb",
+            "Jarburg",
+            "Jarburg",
+            "Jarburg",
+            "Minor Erdtree (Caelid)",
+            "Church of Elleh",
+            "Church of Elleh",
+            "Church of Elleh",
+            "Limgrave",
+            "Weeping Peninsula",
+            "Caelid"
+        ]
+    },
+    {
+        "name": "Ritual Pot",
+        "id": [
+            29,
+            37
+        ],
+        "places": [
+            "Laskyar Ruins",
+            "Raya Lucaria Academy",
+            "Jarburg",
+            "Jarburg",
+            "Auriza Side Tomb",
+            "Auriza Side Tomb",
+            "Subterranean Shunning-Grounds",
+            "Giants' Mountaintop Catacombs",
+            "Dragonbarrow",
+            "Caria Manor"
+        ]
+    },
+    {
+        "name": "Perfume Bottle",
+        "id": [
+            38,
+            37
+        ],
+        "places": [
+            "Leyndell Royal Capital",
+            "Leyndell Royal Capital",
+            "The Shaded Castle",
+            "Volcano Manor",
+            "Perfumer's Ruins",
+            "Perfumer's Ruins",
+            "Street of Sages Ruins",
+            "Perfumer's Grotto",
+            "Altus Plateau",
+            "Capital Outskirts"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Elden Ring Progression</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="description" content="Check your Elden Ring progression!" />
+    <meta name="author" content="Zidodelakaraye" />
+
+    <link rel="icon" href="assets/img/favicon.ico" />
+    <link href="assets/css/styles.css" type="text/css" rel="stylesheet" />
+
+    <script type="text/javascript" src="assets/js/index.js"></script>
+</head>
+
+<body>
+    <div class="logoContainer">
+        <img src="assets/img/logo.png" alt="Elden Ring Logo" class="logo" />
+        <h1 class="title">Completion Tracker</h1>
+    </div>
+    <div class="container">
+        <div id="formSection">
+            <div>
+                <label><strong>Upload Elden Ring save file :</strong></label>
+                <input type="file" id="savefile" accept=".sl2" />
+                <p>(Usually located in C:/Users/<i>yourName</i>/AppData/Roaming/EldenRing/<i>aNumber</i>/ER0000.sl2)</p>
+            </div>
+            <div style="display: none" id="slot_select"></div>
+            <button style="display: none" type="button" name="calculate" id="calculate" onclick="start()">Start</button>
+        </div>
+        <div id="resultSection"></div>
+    </div>
+</body>
+
+</html>
