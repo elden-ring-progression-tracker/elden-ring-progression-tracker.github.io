@@ -114,3 +114,18 @@ dt.opened::before {
     vertical-align: middle;
     margin-left: 10px;
 }
+
+.footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: rgb(206, 196, 178);
+    padding: 20px;
+}
+
+.footer a {
+    color: rgb(206, 196, 178);
+}
