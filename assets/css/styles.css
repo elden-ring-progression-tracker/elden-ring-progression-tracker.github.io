@@ -129,3 +129,9 @@ dt.opened::before {
 .footer a {
     color: rgb(206, 196, 178);
 }
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0px;
+}
