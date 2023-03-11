@@ -167,6 +167,9 @@ async function calculate() {
     globalCounter += itemsFound;
     globalTotal += totalItems;
 
+    //Create toggleNotFoundItems checkbox
+    const notFoundCheckbox = "<input type='checkbox' id='notFound' onclick='toggleNotFoundItems(this.checked)'/><label for='notFound'>Display not found items</label>";
+
     //Generate collectibles HTML block
     let regionsToInsert = `<dl><dt class='regionTitle closed'>Collectibles<span class='counter'>(${itemsFound} / ${totalItems})</span></dt><dd class='closed'><div class='itemList'>`;
     for (let i = 0; i < quantifiableItems.length; i++) {
@@ -201,6 +204,7 @@ async function calculate() {
                     <img alt="${itemsData[region][zone][itemKey].type}" src="assets/img/hints/${itemsData[region][zone][itemKey].type}.png"/>
                     <p>??????????</p>
                     <input type="hidden" value="${itemsData[region][zone][itemKey].name}"/>
+                    <input type="hidden" value="${itemsData[region][zone][itemKey].type}"/>
                     </div>`;
                 }
             });
@@ -231,7 +235,7 @@ async function calculate() {
     const completion = `<h2>Completion: ${Math.floor(globalCounter / globalTotal * 100)}%</h2>`;
 
     //Final insertion
-    document.getElementById("resultSection").innerHTML = completion + regionsToInsert;
+    document.getElementById("resultSection").innerHTML = completion + notFoundCheckbox + regionsToInsert;
 
     //Add collapsible feature
     const elts = document.getElementsByTagName("dt");
@@ -335,4 +339,20 @@ function findItemQuantities(slot) {
         }
     }
     return result;
+}
+
+function toggleNotFoundItems(value) {
+    const elts = document.getElementsByClassName("disabledCard");
+    for (let card of elts) {
+        if (value) {
+            const name = card.getElementsByTagName("input")[0].value;
+            card.getElementsByTagName("img")[0].src = `assets/img/items/${sanitizeImgName(name)}.webp`;
+            card.getElementsByTagName("p")[0].innerText = name;
+        }
+        else {
+            const type = card.getElementsByTagName("input")[1].value;
+            card.getElementsByTagName("img")[0].src = `assets/img/hints/${type}.png`;
+            card.getElementsByTagName("p")[0].innerText = "??????????";
+        }
+    }
 }
