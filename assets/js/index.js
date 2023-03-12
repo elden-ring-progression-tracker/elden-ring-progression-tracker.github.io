@@ -220,16 +220,31 @@ async function calculate() {
             });
             icons += "</span>";
 
+            const zoneTotal = Object.keys(itemsData[region][zone]).length;
             //Zone insertion
             regionCounter += counter;
-            regionTotal += Object.keys(itemsData[region][zone]).length;
-            zonesToInsert += `<dt class='zoneTitle closed'>${zone}${icons}<span class='counter'>(${counter} / ${Object.keys(itemsData[region][zone]).length})</span></dt><dd class='closed'><div class="itemList">${itemsToInsert}</div></dd>`;
+            regionTotal += zoneTotal;
+
+            if (zoneTotal != 0) {
+                zonePctg = Math.floor((counter / zoneTotal) * 100);
+            } else {
+                zonePctg = 100;
+            }
+
+            zonesToInsert += `<dt class='zoneTitle closed'>${zone}${icons}<span class='counter'>(${counter} / ${Object.keys(itemsData[region][zone]).length}) ${zonePctg}%</span></dt><dd class='closed'><div class="itemList">${itemsToInsert}</div></dd>`;
         });
 
         //Region insertion
         globalCounter += regionCounter;
         globalTotal += regionTotal;
-        regionsToInsert += `<dt class='regionTitle closed'>${region}<span class='counter'>(${regionCounter} / ${regionTotal})</span></dt><dd class='closed'><dl>${zonesToInsert}</dl></dd>`;
+
+        if (regionTotal != 0) {
+            regionPctg = Math.floor((regionCounter / regionTotal) * 100);
+        } else {
+            regionPctg = 100;
+        }
+
+        regionsToInsert += `<dt class='regionTitle closed'>${region}<span class='counter'>(${regionCounter} / ${regionTotal}) ${regionPctg}%</span></dt><dd class='closed'><dl>${zonesToInsert}</dl></dd>`;
     });
     regionsToInsert += "</dl>";
 
