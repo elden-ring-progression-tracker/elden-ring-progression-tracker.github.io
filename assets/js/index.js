@@ -194,14 +194,15 @@ async function calculate() {
                 if (id_list.includes(itemKey)) {
                     //Item found
                     counter++;
-                    itemsToInsert += `<div class='itemCard' id='${itemKey}'>
+                    itemsToInsert += `<div class='itemCard' id='${itemKey}'><a target="_blank" href='https://eldenring.wiki.fextralife.com/${sanitizeURL(itemsData[region][zone][itemKey].name)}'>
                     <img alt="${itemsData[region][zone][itemKey].name}" src="assets/img/items/${sanitizeImgName(itemsData[region][zone][itemKey].name)}.webp"/>
                     <p>${itemsData[region][zone][itemKey].name}</p>
-                    </div>`;
+                    </a></div>`;
                 }
                 else {
                     //Item not found
                     itemsToInsert += `<div class='itemCard disabledCard' id='${itemKey}'>
+                    <div class='tooltip'>Hint<div class='tooltipText'>${itemsData[region][zone][itemKey].hint}</div></div>
                     <img alt="${itemsData[region][zone][itemKey].type}" src="assets/img/hints/${itemsData[region][zone][itemKey].type}.png"/>
                     <p>??????????</p>
                     <input type="hidden" value="${itemsData[region][zone][itemKey].name}"/>
@@ -356,4 +357,10 @@ function toggleNotFoundItems(value) {
             card.getElementsByTagName("p")[0].innerText = "??????????";
         }
     }
+}
+
+function sanitizeURL(name) {
+    if (name === "Gauntlets")
+        return "Chain+Gauntlets";
+    return name.replaceAll(" +1", "").replaceAll(" +2", "").replaceAll(" (1)", "").replaceAll(" (2)", "").replaceAll("[", "(").replaceAll("]", ")").replaceAll(" ", "+");
 }

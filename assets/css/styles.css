@@ -126,12 +126,46 @@ dt.opened::before {
     padding: 20px;
 }
 
-.footer a {
+a {
     color: rgb(206, 196, 178);
+}
+
+.itemCard a {
+    text-decoration: none;
 }
 
 h2 {
     font-size: 48px;
     text-align: center;
     margin-top: 0px;
+}
+
+.tooltip {
+    position: absolute;
+    margin-top: 180px;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltipText {
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    width: 400px;
+    text-align: justify;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    border-radius: 5px;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltipText {
+    visibility: visible;
+    opacity: 1;
 }
