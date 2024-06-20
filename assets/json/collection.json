@@ -1,0 +1,841 @@
+[
+    {
+        "name": "Melina, the Kindling Maiden",
+        "background": "",
+        "items": [
+            [
+                "40000082"
+            ]
+        ]
+    },
+    {
+        "name": "Armorer's Techniques",
+        "background": "",
+        "items": [
+            [
+                "40002134"
+            ],
+            [
+                "40002468",
+                "40002469",
+                "40002470",
+                "40002472"
+            ]
+        ]
+    },
+    {
+        "name": "The Heavy Warrior's Equipment",
+        "background": "",
+        "items": [
+            [
+                "800029CC",
+                "8000C5A8",
+                "80002AF8",
+                "80002968",
+                "80011170",
+                "8000FE4C"
+            ],
+            [
+                "2000088E",
+                "20000852",
+                "20000816"
+            ],
+            [
+                "01ECDBE0",
+                "01EC66B0",
+                "1006B6C0",
+                "01EB2E30",
+                "01ECB4D0"
+            ],
+            [
+                "10013880",
+                "10013948",
+                "100138E4",
+                "100139AC"
+            ],
+            [
+                "00B71B00",
+                "00D5EDA0",
+                "002E3BF0",
+                "002E6300",
+                "00F4E750",
+                "0160C880",
+                "00E556F0",
+                "00D72620",
+                "00BA0130",
+                "00E4E1C0"
+            ]
+        ]
+    },
+    {
+        "name": "The Balanced Warrior's Equipment",
+        "background": "",
+        "items": [
+            [
+                "8000EA60",
+                "800075F8",
+                "800078B4"
+            ],
+            [
+                "01DD4B80",
+                "01DB0190",
+                "01DA8C60",
+                "01DCAF40",
+                "01DD2470"
+            ],
+            [
+                "001F20C0",
+                "00A87500",
+                "016E3600",
+                "00C68450"
+            ],
+            [
+                "1010C944",
+                "1010C9A8",
+                "1010CA0C",
+                "1010C8E0",
+                "00F55C80",
+                "001F47D0"
+            ]
+        ]
+    },
+    {
+        "name": "The Agile Warrior's Equipment",
+        "background": "",
+        "items": [
+            [
+                "80002A94",
+                "80002774",
+                "80013880",
+                "8000283C"
+            ],
+            [
+                "2000083E",
+                "2000085C",
+                "20000898"
+            ],
+            [
+                "10027164",
+                "1002722C"
+            ],
+            [
+                "005BDBA0",
+                "010450A0",
+                "00989680",
+                "006B44F0",
+                "000FB770",
+                "00F44B10",
+                "00F53570"
+            ]
+        ]
+    },
+    {
+        "name": "The Assassin's Equipment",
+        "background": "",
+        "items": [
+            [
+                "8000EB28"
+            ],
+            [
+                "20000884"
+            ],
+            [
+                "101E36C4",
+                "101E3728",
+                "101E3660"
+            ],
+            [
+                "000F4240",
+                "000F9060",
+                "014FB180"
+            ]
+        ]
+    },
+    {
+        "name": "The Hunter's Equipment",
+        "background": "",
+        "items": [
+            [
+                "20000834"
+            ],
+            [
+                "02810590"
+            ],
+            [
+                "029020C0",
+                "02915940"
+            ]
+        ]
+    },
+    {
+        "name": "The Fighter's Equipment",
+        "background": "",
+        "items": [
+            [
+                "8000C47C"
+            ],
+            [
+                "01406F40"
+            ]
+        ]
+    },
+    {
+        "name": "Leyndell Aristocrats",
+        "background": "",
+        "items": [
+            [
+                "4003A980",
+                "4003AD68"
+            ],
+            [
+                "1005A67C",
+                "1005A550",
+                "1005A5B4",
+                "1005CCC4",
+                "1005CC60"
+            ],
+            [
+                "1005F49C",
+                "1005F3D4",
+                "1005F370"
+            ],
+            [
+                "002206F0",
+                "004D35A0"
+            ]
+        ]
+    },
+    {
+        "name": "Godrick's Army",
+        "background": "",
+        "items": [
+            [
+                "1019F1CC",
+                "1019F168",
+                "1019F104",
+                "1019F0A0",
+                "4003D090"
+            ],
+            [
+                "101BEC70",
+                "101BECD4"
+            ],
+            [
+                "101B02D8",
+                "101B0274",
+                "101B033C",
+                "101B0210"
+            ],
+            [
+                "40000BE0"
+            ]
+        ]
+    },
+    {
+        "name": "The Prisonner",
+        "background": "",
+        "items": [
+            [
+                "01F78A40",
+                "004C4B40"
+            ]
+        ]
+    },
+    {
+        "name": "The Astrologer",
+        "background": "",
+        "items": [
+            [
+                "01CAFC00",
+                "001EAB90"
+            ]
+        ]
+    },
+    {
+        "name": "The Hero",
+        "background": "",
+        "items": [
+            [
+                "01DC8830"
+            ]
+        ]
+    },
+    {
+        "name": "The Vagabond",
+        "background": "",
+        "items": [
+            [
+                "0112A880"
+            ]
+        ]
+    },
+    {
+        "name": "The Prophet",
+        "background": "",
+        "items": [
+            [
+                "1009770C",
+                "01CA38B0"
+            ]
+        ]
+    },
+    {
+        "name": "The Bandit",
+        "background": "",
+        "items": [
+            [
+                "02625A00",
+                "01C9C380"
+            ],
+            [
+                "101560A8",
+                "100E3198",
+                "100E31FC",
+                "100E351C"
+            ]
+        ]
+    },
+    {
+        "name": "The Confessor",
+        "background": "",
+        "items": [
+            [
+                "001ED2A0"
+            ]
+        ]
+    },
+    {
+        "name": "The Samurai",
+        "background": "",
+        "items": [
+            [
+                "02719C40",
+                "00895440"
+            ]
+        ]
+    },
+    {
+        "name": "The Warrior",
+        "background": "",
+        "items": [
+            [
+                "006CF2A0",
+                "01CB2310"
+            ]
+        ]
+    },
+    {
+        "name": "The Wretch",
+        "background": "",
+        "items": [
+            [
+                "00A7FFD0"
+            ]
+        ]
+    },
+    {
+        "name": "The Bloody Wolf",
+        "background": "",
+        "items": [
+            [
+                "01CB9840"
+            ]
+        ]
+    },
+    {
+        "name": "The Lands Between's Wildlife",
+        "background": "",
+        "items": [
+            [
+                "40002205"
+            ],
+            [
+                "2000047E"
+            ],
+            [
+                "1010EFF0"
+            ]
+        ]
+    },
+    {
+        "name": "Lords of Gravity",
+        "background": "",
+        "items": [
+            [
+                "800051A4"
+            ]
+        ]
+    },
+    {
+        "name": "Skeletal Army",
+        "background": "",
+        "items": [
+            [
+                "40033C20"
+            ],
+            [
+                "01D9C910",
+                "012211D0",
+                "006B6C00"
+            ]
+        ]
+    },
+    {
+        "name": "Land of Reeds Warrior",
+        "background": "",
+        "items": [
+            [
+                "80002C88"
+            ]
+        ]
+    },
+    {
+        "name": "Sorceress Sellen",
+        "background": "",
+        "items": [
+            [
+                "40002208",
+                "40002339"
+            ]
+        ]
+    },
+    {
+        "name": "Blaidd the Half-Wolf",
+        "background": "",
+        "items": [
+            [
+                "40002346"
+            ]
+        ]
+    },
+    {
+        "name": "Nomadic Warriors' Legacy",
+        "background": "",
+        "items": [
+            [
+                "40002454",
+                "4000245F",
+                "40002455",
+                "400024A4",
+                "400024A7",
+                "40002456",
+                "40002459",
+                "40002457"
+            ]
+        ]
+    },
+    {
+        "name": "Holy Missionary",
+        "background": "",
+        "items": [
+            [
+                "40002491",
+                "40002490"
+            ]
+        ]
+    },
+    {
+        "name": "Wondrous Physick",
+        "background": "",
+        "items": [
+            [
+                "400021FE"
+            ],
+            [
+                "40002AFB",
+                "40002AF9"
+            ],
+            [
+                "40002B06"
+            ]
+        ]
+    },
+    {
+        "name": "Ranni the Witch",
+        "background": "",
+        "items": [
+            [
+                "40038A40",
+                "40001FDE"
+            ]
+        ]
+    },
+    {
+        "name": "The Royal Family of Caria",
+        "background": "",
+        "items": [
+            [
+                "400007F8"
+            ],
+            [
+                "8000558C",
+                "80002EE0"
+            ],
+            [
+                "40001158",
+                "400010CC"
+            ]
+        ]
+    },
+    {
+        "name": "The Erdtree Guardians",
+        "background": "",
+        "items": [
+            [
+                "0113E100",
+                "028153B0"
+            ],
+            [
+                "8000EB8C"
+            ],
+            [
+                "20000410"
+            ]
+        ]
+    },
+    {
+        "name": "The Trolls",
+        "background": "",
+        "items": [
+            [
+                "400021FF"
+            ]
+        ]
+    },
+    {
+        "name": "Tayloring",
+        "background": "",
+        "items": [
+            [
+                "40001FE3",
+                "40001FE1"
+            ]
+        ]
+    },
+    {
+        "name": "Demi-Humans' Weapons",
+        "background": "",
+        "items": [
+            [
+                "006ACFC0",
+                "00A8EA30"
+            ]
+        ]
+    },
+    {
+        "name": "Black Knife Assassins",
+        "background": "",
+        "items": [
+            [
+                "200013BA"
+            ]
+        ]
+    },
+    {
+        "name": "Scarabs",
+        "background": "",
+        "items": [
+            [
+                "101CFDE0",
+                "101D01C8"
+            ]
+        ]
+    },
+    {
+        "name": "Bloodhound Knights",
+        "background": "",
+        "items": [
+            [
+                "007A8730"
+            ]
+        ]
+    },
+    {
+        "name": "Bloody Arsenal",
+        "background": "",
+        "items": [
+            [
+                "80004FB0"
+            ],
+            [
+                "000FDE80"
+            ]
+        ]
+    },
+    {
+        "name": "Banished Knights",
+        "background": "",
+        "items": [
+            [
+                "40031128",
+                "40031510"
+            ],
+            [
+                "002EFF40",
+                "01131DB0",
+                "01D97AF0"
+            ],
+            [
+                "10030E6C",
+                "10030E08",
+                "10030D40",
+                "10030DA4"
+            ],
+            [
+                "01D92CD0",
+                "01D953E0"
+            ],
+            [
+                "1002E6F8",
+                "1002E630",
+                "1002E75C",
+                "1002E694"
+            ]
+        ]
+    },
+    {
+        "name": "Catacomb Imps",
+        "background": "",
+        "items": [
+            [
+                "00D5C690"
+            ],
+            [
+                "10108A60",
+                "10107AC0"
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Communion",
+        "background": "",
+        "items": [
+            [
+                "02080500"
+            ]
+        ]
+    },
+    {
+        "name": "Cartography",
+        "background": "",
+        "items": [
+            [
+                "40002198",
+                "4000219A"
+            ]
+        ]
+    },
+    {
+        "name": "Smithery",
+        "background": "",
+        "items": [
+            [
+                "4000218E",
+                "4000230A"
+            ]
+        ]
+    },
+    {
+        "name": "Stormveil Winds",
+        "background": "",
+        "items": [
+            [
+                "8000C418",
+                "80007788",
+                "80002FA8",
+                "8000300C",
+                "80005208"
+            ],
+            [
+                "00222E00"
+            ]
+        ]
+    },
+    {
+        "name": "Protecting Talismans",
+        "background": "",
+        "items": [
+            [
+                "20000FB4",
+                "20000FBE",
+                "20000FC8"
+            ]
+        ]
+    },
+    {
+        "name": "Stone Miners",
+        "background": "",
+        "items": [
+            [
+                "00B93DE0"
+            ]
+        ]
+    },
+    {
+        "name": "Gestures",
+        "background": "",
+        "items": [
+            [
+                "4000233B",
+                "40002349",
+                "4000234C",
+                "40002331"
+            ],
+            [
+                "40000898"
+            ]
+        ]
+    },
+    {
+        "name": "Morgott, the Omen King",
+        "background": "",
+        "items": [
+            [
+                "4000085C"
+            ]
+        ]
+    },
+    {
+        "name": "Kaiden Mercenaries",
+        "background": "",
+        "items": [
+            [
+                "007A6020"
+            ],
+            [
+                "1000C3B4",
+                "1000C47C",
+                "1000C350",
+                "1000C418"
+            ]
+        ]
+    },
+    {
+        "name": "Fire Giants",
+        "background": "",
+        "items": [
+            [
+                "40002203"
+            ]
+        ]
+    },
+    {
+        "name": "The Primordial Crucible",
+        "background": "",
+        "items": [
+            [
+                "40001D4C",
+                "40001D56"
+            ]
+        ]
+    },
+    {
+        "name": "The Prince of Death",
+        "background": "",
+        "items": [
+            [
+                "200004A6"
+            ],
+            [
+                "40001388"
+            ]
+        ]
+    },
+    {
+        "name": "Erdtree Devotees",
+        "background": "",
+        "items": [
+            [
+                "100C5D3C",
+                "100C63E0",
+                "100C5C74"
+            ]
+        ]
+    },
+    {
+        "name": "The Gloam-Eyed Queen",
+        "background": "",
+        "items": [
+            [
+                "0206F390"
+            ]
+        ]
+    },
+    {
+        "name": "Glintstone Sorcery",
+        "background": "",
+        "items": [
+            [
+                "80004F4C"
+            ],
+            [
+                "40001176",
+                "40000FD2",
+                "40000FA1",
+                "40000FDC",
+                "40000FBE",
+                "40000FAA",
+                "40000FE6",
+                "40000FB4",
+                "40000FC8",
+                "4000116C",
+                "40000FA0"
+            ]
+        ]
+    },
+    {
+        "name": "Omens",
+        "background": "",
+        "items": [
+            [
+                "00E508D0",
+                "007AFC60"
+            ]
+        ]
+    },
+    {
+        "name": "Saint Trina",
+        "background": "",
+        "items": [
+            [
+                "400024CC"
+            ]
+        ]
+    },
+    {
+        "name": "The Golden Order",
+        "background": "",
+        "items": [
+            [
+                "80004E84"
+            ]
+        ]
+    },
+    {
+        "name": "Magma Skills",
+        "background": "",
+        "items": [
+            [
+                "800050DC"
+            ]
+        ]
+    },
+    {
+        "name": "Death Birds",
+        "background": "",
+        "items": [
+            [
+                "20000FF0"
+            ]
+        ]
+    },
+    {
+        "name": "Bell Bearings",
+        "background": "",
+        "items": [
+            [
+                "400022F1"
+            ]
+        ]
+    }
+]
