@@ -7,7 +7,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 ]);*/
 const pattern = new Uint8Array([176, 173, 1, 0, 1, 255, 255, 255]);
-const pattern2 = new Uint8Array([176, 173, 1, 0, 1, 0, 0, 0]);
+const pattern2 = new Uint8Array([176, 173, 1, 0, 1]);
 
 let quantifiableItems;
 let file_read = null;
