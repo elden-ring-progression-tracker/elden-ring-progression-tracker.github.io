@@ -276,6 +276,7 @@ function fetchInventory() {
     const inventory = Array.from(getInventory(slots[selected_slot]));
     id_list = split(inventory, dlcFile ? 8 : 16);
     id_list.forEach((raw_id, index) => (id_list[index] = getIdReversed(raw_id).toUpperCase()));
+    console.log(id_list);
     lastList = id_list;
 }
 
@@ -318,7 +319,7 @@ function get_slot_ls(dat) {
 function getInventory(slot) {
     index = subfinder(slot, pattern) + pattern.byteLength + 8;
     if (!index) {
-        index = subfinder(slot, pattern2) + pattern.byteLength + 8;
+        index = subfinder(slot, pattern2) + pattern2.byteLength + 3;
         dlcFile = true;
     }
     index1 = subfinder(slot.subarray(index, slot.byteLength), new Uint8Array(50).fill(0)) + index + 6;
