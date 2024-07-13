@@ -1,0 +1,2517 @@
+{
+    "Gravesite Plain": {
+        "Abandoned Ailing Village": {
+            "20001FB8": {
+                "name": "Ailment Talisman",
+                "type": "chest",
+                "hint": "<li>The Ailment Talisman can be looted from a corpse. The body can be found lying at the edge of an unfinished wooden bridge of the&nbsp;Abandoned Ailing Village.&nbsp;</li>"
+            }
+        },
+        "Belurat Gaol": {
+            "10512D40": {
+                "name": "Greatjar",
+                "type": "chest",
+                "hint": "<li>Belurat Gaol: After leaving the jar labyrinth, you will pass a small bridge and fight 3 Mutated Prisoners, on quite a large platform. In order to advance the dungeon, you have to step on the jar at the end of the area, but don't do that. Instead, turn right to find another jar on a slightly lower level. Step on it, and it will take you high. Once there, jump from platform to platform, and once the area, opens up, the item is on a pedestal, beware of the enemies.&nbsp;</li>"
+            },
+            "4021A930": {
+                "name": "Demi-Human Swordsman Yosh",
+                "type": "boss",
+                "hint": "<li>Dropped by the Demi-Human Swordmaster Onze&nbsp;boss. Demi-Human Swordmaster Onze can be found at the bottom of the&nbsp;Belurat Gaol. Players will find the entrance to this area by going to the lake west of the&nbsp;Belurat Tower Settlement.&nbsp;</li>"
+            },
+            "401EA8E4": {
+                "name": "Greater Potentate's Cookbook [11]",
+                "type": "chest",
+                "hint": "<li>Belurat Gaol: Found within the jar labyrinth.&nbsp;</li>"
+            }
+        },
+        "Belurat Tower Settlement": {
+            "03D87F40": {
+                "name": "Curseblade's Cirque",
+                "type": "foe",
+                "hint": "<li>Drops from Curseblade enemies who wield it (one is located on top of an arch 10 seconds from the very first site of grace, and another is located right next to the Stage Front Site of Grace in Belurat, Tower Settlement, which is quite easy to farm).</li>"
+            },
+            "104F7F90": {
+                "name": "Curseblade Mask",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Curseblade enemies.</li>"
+            },
+            "104F7FF4": {
+                "name": "Ascetic's Loincloth",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "104F8058": {
+                "name": "Ascetic's Wrist Guards",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "104F80BC": {
+                "name": "Ascetic's Ankle Guards",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "0072E610": {
+                "name": "Horned Warrior's Sword",
+                "type": "foe",
+                "hint": "<li>This can be obtained by eliminating the Horned Warrior in the Belurat Tower Settlement Swamp.</li>"
+            },
+            "00A037A0": {
+                "name": "Euporia",
+                "type": "chest",
+                "hint": "<li>Belurat Tower Settlement&nbsp;</li>"
+            },
+            "01485E80": {
+                "name": "Poisoned Hand",
+                "type": "chest",
+                "hint": "<li>Sewer Level of the&nbsp;Belurat Tower Settlement&nbsp;in Gravesite Plain.</li>"
+            },
+            "0269FB20": {
+                "name": "Bone Bow",
+                "type": "chest",
+                "hint": "<li>Belurat Tower Settlement: Can be found being protected by 2 giant Spider-Scorpions, inside the massive tower with a broken spiral staircase.&nbsp;</li>"
+            },
+            "10501BD0": {
+                "name": "Horned Warrior Helm",
+                "type": "foe",
+                "hint": "<li>Dropped from Horned Warriors.</li>"
+            },
+            "10501C34": {
+                "name": "Horned Warrior Armor",
+                "type": "foe",
+                "hint": "<li>Drops from Horned Warriors (Small Private Altar site of grace in&nbsp;Belurat, Tower Settlement)&nbsp;</li>"
+            },
+            "10501C98": {
+                "name": "Horned Warrior Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drops from Horned Warriors (Small Private Altar site of grace in Belurat, Tower Settlement) </li>"
+            },
+            "10501CFC": {
+                "name": "Horned Warrior Greaves",
+                "type": "foe",
+                "hint": "<li>Drops from Horned Warriors (Small Private Altar site of grace in&nbsp;Belurat, Tower Settlement)&nbsp;</li>"
+            },
+            "1050B810": {
+                "name": "Divine Beast Head",
+                "type": "boss",
+                "hint": "<li>The Divine Beast Dancing Lion&nbsp;of the Belurat, Tower Settlement&nbsp;drops this Helm upon defeat.&nbsp;       Not to be confused with the Divine Beast Helm    </li>"
+            },
+            "20001B8A": {
+                "name": "Immunizing Horn Charm +2",
+                "type": "boss",
+                "hint": "<li>+2 Variant: Drops upon defeating the Lesser Ulcerated Tree Spirit in the sewers section of Belurat Tower Settlement.</li>"
+            },
+            "20001F72": {
+                "name": "Crusade Insignia",
+                "type": "invader",
+                "hint": "<li> Belurat Tower Settlement: The Crusade Insignia Talisman is acquired upon defeating the Fire Knight Queelign NPC Invader.&nbsp; </li>"
+            },
+            "20001FA4": {
+                "name": "Dried Bouquet",
+                "type": "chest",
+                "hint": "<li>Found in a small room hidden behind debris in the area you fight several Man-Fly enemies.</li>"
+            },
+            "800664B8": {
+                "name": "Ash of War: Shriek of Sorrow",
+                "type": "chest",
+                "hint": "<li>Can be found in the main Plaza where Fire Knight Queelign invades you, behind the great tree located in the middle.</li>"
+            }
+        },
+        "Castle Ensis": {
+            "104E9530": {
+                "name": "Black Knight Helm",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E9594": {
+                "name": "Black Knight Armor",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E95F8": {
+                "name": "Black Knight Gauntlets",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E965C": {
+                "name": "Black Knight Greaves",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "00DD8EC0": {
+                "name": "Messmer Soldier's Axe",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers.</li>"
+            },
+            "010B2E70": {
+                "name": "Messmer Soldier's Spear",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers</li>"
+            },
+            "01E0A6E0": {
+                "name": "Messmer Soldier Shield",
+                "type": "foe",
+                "hint": "<li>Drops from shield-wielding Messmer Soldiers. Found in camps across&nbsp;Gravesite Plain and Scadu Altus, and inside Castle Ensis&nbsp;and Shadow Keep.</li>"
+            },
+            "104E6E20": {
+                "name": "Messmer Soldier Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Messmer Soldiers</li>"
+            },
+            "104E6E84": {
+                "name": "Messmer Soldier Armor",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6EE8": {
+                "name": "Messmer Soldier Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6F4C": {
+                "name": "Messmer Soldier Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "80064960": {
+                "name": "Ash of War: Wing Stance",
+                "type": "chest",
+                "hint": "<li>Castle Ensis: Inside a chest in the tower that you can reach by jumping over the edge just outside Castle Lord's Chamber Site of Grace, and following the cliffside down to the tower before climbing up two ladders to reach it.&nbsp;&nbsp;</li>"
+            },
+            "00269AD0": {
+                "name": "Carian Sorcery Sword",
+                "type": "chest",
+                "hint": "<li>In a&nbsp;chest after dropping down into Castle Ensis from Scadu Altus.&nbsp;</li>"
+            },
+            "00454660": {
+                "name": "Moonrithyll's Knight Sword",
+                "type": "invader",
+                "hint": "<li>The weapon drops from defeating the hostile NPC Invader, Moonrithyll, Carian Knight.&nbsp;&nbsp;</li>"
+            },
+            "01E0CDF0": {
+                "name": "Wolf Crest Shield",
+                "type": "chest",
+                "hint": "<li>Can be found in: Castle Ensis.&nbsp;Located inside a storeroom you'll find a treasure chest that has the Wolf Crest Shield.&nbsp;&nbsp;</li>"
+            },
+            "0405F7E0": {
+                "name": "Milady",
+                "type": "chest",
+                "hint": "<li>Castle Ensis: The Milady Light Greatsword weapon can be found inside a chest. The chest is located at the top of a watchtower.&nbsp;&nbsp;</li>"
+            },
+            "104FF4C0": {
+                "name": "Common Soldier Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;soldiers in&nbsp;Castle Ensis</li>"
+            },
+            "104FF524": {
+                "name": "Common Soldier Cloth Armor",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;soldiers in&nbsp;Castle Ensis</li>"
+            },
+            "104FF588": {
+                "name": "Common Soldier Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;soldiers in&nbsp;Castle Ensis</li>"
+            },
+            "104FF5EC": {
+                "name": "Common Soldier Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;soldiers in&nbsp;Castle Ensis</li>"
+            },
+            "20001BB2": {
+                "name": "Spelldrake Talisman +3",
+                "type": "chest",
+                "hint": "<li>A +3 variant of the Spelldrake Talisman can be looted from&nbsp;a corpse near the Castle Front site of grace near Castle Ensis. On the map, the body is located inside a storeroom directly East of the end of the Castle Front bridge nearest the castle, however, it must be accessed by going underneath the bridge on the side nearest the site of grace and then going East until you can jump across the gap into the storeroom.&nbsp;</li>"
+            },
+            "2000201C": {
+                "name": "Rellana's Cameo",
+                "type": "chest",
+                "hint": "<li>Located in Castle Ensis just behind hostile NPC Moonrithyll, lying on an altar.&nbsp;&nbsp;</li>"
+            },
+            "401E9556": {
+                "name": "Glintblade Trio",
+                "type": "chest",
+                "hint": "<li>The Glintblade Trio spell is found by looting it off a corpse inside Castle Ensis. After passing through the iron gate just beyond the chapel in the midpoint of the castle, then dropping off the side of the cliff and climbing up the ladders to the rooftop of the chapel. You can then drop down on the north side of the roof to get to the corpse hanging over a ledge that has the spell.&nbsp;</li>"
+            },
+            "401EA8F1": {
+                "name": "Loyal Knight's Cookbook",
+                "type": "chest",
+                "hint": "<li>Castle Ensis: The Loyal Knight's Cookbook can be found inside a chest. The chest is located inside an armory room.&nbsp;&nbsp;</li>"
+            }
+        },
+        "Church of Benediction": {
+            "01483770": {
+                "name": "Pata",
+                "type": "chest",
+                "hint": "<li>Found inside a hanging body, just outside the Church of Benediction.&nbsp;</li>"
+            },
+            "104C4B40": {
+                "name": "Oathseeker Knight Helm",
+                "type": "chest",
+                "hint": "<li>Found inside a hanging body, just outside the Church of Benediction. It contains the whole set:&nbsp;Oathseeker Knight Greaves,&nbsp;Oathseeker Knight Gauntlets, Oathseeker Knight Armor, and&nbsp;Oathseeker Knight Helm. It also contains&nbsp;Pata&nbsp;weapon.&nbsp;</li>"
+            },
+            "104C4C08": {
+                "name": "Oathseeker Knight Gauntlets",
+                "type": "chest",
+                "hint": "<li>Found inside a hanging body, just outside the Church of Benediction. It contains the whole set: Oathseeker Knight Greaves, Oathseeker Knight Gauntlets, Oathseeker Knight Armor, and Oathseeker Knight Helm. It also contains Pata weapon.</li>"
+            },
+            "104C4C6C": {
+                "name": "Oathseeker Knight Greaves",
+                "type": "chest",
+                "hint": "<li>Found inside a hanging body, just outside the Church of Benediction. It contains the whole set:&nbsp;Oathseeker Knight Greaves,&nbsp;Oathseeker Knight Gauntlets, Oathseeker Knight Armor, and&nbsp;Oathseeker Knight Helm. It also contains&nbsp;Pata&nbsp;weapon.&nbsp;</li>"
+            },
+            "104C5374": {
+                "name": "Oathseeker Knight Armor",
+                "type": "chest",
+                "hint": "<li>Found inside a hanging body, just outside the Church of Benediction. It contains the whole set: Oathseeker Knight Greaves, Oathseeker Knight Gauntlets, Oathseeker Knight Armor, and Oathseeker Knight Helm. It also contains Pata weapon.&nbsp;</li>"
+            },
+            "20001F40": {
+                "name": "Blessed Blue Dew Talisman",
+                "type": "chest",
+                "hint": "<li>Church of Benediction.&nbsp;Head inside the church and investigate the statue of Marika to find the Blessed Blue Dew Talisman</li>"
+            }
+        },
+        "Church of Consolation": {
+            "00BF0A40": {
+                "name": "Black Steel Greathammer",
+                "type": "boss",
+                "hint": "<li>Guaranteed drop from the black knight found at the Church of Consolation.&nbsp;</li>"
+            }
+        },
+        "Dragon's Pit": {
+            "03F6DCB0": {
+                "name": "Dragon-Hunter's Great Katana",
+                "type": "boss",
+                "hint": "<li>Dropped by the Ancient Dragon-Man in the Dragon's Pit.</li>"
+            }
+        },
+        "Elder's Hovel": {
+            "20001FEA": {
+                "name": "Talisman of the Dread",
+                "type": "chest",
+                "hint": "<li>Elder's Hovel:&nbsp;Can be found on a corpse inside Elder's Hovel.&nbsp;</li>"
+            }
+        },
+        "Enir-Ilim": {
+            "10502404": {
+                "name": "Divine Beast Warrior Armor",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Beast Warriors,&nbsp;Enir Ilim</li>"
+            },
+            "10502788": {
+                "name": "Divine Bird Helm",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Bird Warriors</li>"
+            },
+            "10502850": {
+                "name": "Divine Bird Warrior Gauntlets",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Bird Warriors</li>"
+            },
+            "00820140": {
+                "name": "Horned Warrior's Greatsword",
+                "type": "boss",
+                "hint": "<li>Guaranteed drop from the Wind-Aspected Horned Warrior towards the end of Enir-Ilim.&nbsp;</li>"
+            },
+            "104FCDB0": {
+                "name": "Gravebird Helm",
+                "type": "chest",
+                "hint": "<li>From the Spiral Rise site of grace in Enir-Ilim, climb the spire until you unlock the elevator shortcut back down to the grace. Ride the lift down and jump off halfway into a central altar.</li>"
+            },
+            "105023A0": {
+                "name": "Divine Beast Helm",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Beast Warriors, Enir Ilim       Not to be confused with the Divine Beast Head.    </li>"
+            },
+            "105027EC": {
+                "name": "Divine Bird Warrior Armor",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Bird Warriors</li>"
+            },
+            "105028B4": {
+                "name": "Divine Bird Warrior Greaves",
+                "type": "foe",
+                "hint": "<li>Dropped by Divine Bird Warriors</li>"
+            },
+            "105071C0": {
+                "name": "Circlet of Light",
+                "type": "chest",
+                "hint": "<li>First, defeat Promised Consort Radahn&nbsp;/ Radahn, Consort of Miquella&nbsp;in Enir-Ilim. After the battle, at the center of the boss arena, towards the golden orb. Select \"Touch Memory\" to trigger a cutscene. You'll obtain this item after the cutscene plays.</li>"
+            },
+            "4021A548": {
+                "name": "Inquisitor Ashes",
+                "type": "chest",
+                "hint": "<li>They can be found on a corpse in Enir-Ilim, beneath the second to last enemy before reaching the Spiral Rise site of grace (coming from First Rise site of grace).</li>"
+            },
+            "4021C870": {
+                "name": "Horned Warrior Ashes",
+                "type": "chest",
+                "hint": "<li>Can be found in Enir-Ilim after the Spirit Rise site of grace. You'll climb the spiral stairs, kill 4 birds and then jump off the stairs case onto another staircase below. The ashes will be on one of 3 items of the 3 corpses.&nbsp;</li>"
+            },
+            "401EA2A8": {
+                "name": "Spira",
+                "type": "chest",
+                "hint": "<li>Enir-Ilim: From First Rise Grace on a raised platform accessible from using tree branches.&nbsp;It would be on a small altar that is directly in front of statue.</li>"
+            },
+            "401EA7AB": {
+                "name": "Let Us Go Together",
+                "type": "boss",
+                "hint": "<li>Obtained after being grabbed by Miquella while charmed or by picking it up inside the arena after the fight.</li>"
+            }
+        },
+        "Fog Rift Catacombs": {
+            "00DDDCE0": {
+                "name": "Forked-Tongue Hatchet",
+                "type": "foe",
+                "hint": "<li>Dropped by Imps in catacombs (you can farm it in Scorpion River Catacombs)</li>"
+            },
+            "0035B600": {
+                "name": "Lizard Greatsword",
+                "type": "foe",
+                "hint": "<li>Dropped by the imps in the Scorpion River Catacombs.&nbsp;</li>"
+            },
+            "0026C1E0": {
+                "name": "Stone-Sheathed Sword",
+                "type": "chest",
+                "hint": "<li>Can be acquired at one of the 3 Altar locations:&nbsp;Fog Rift Catacombs&nbsp;(on top of the 3 trap platforms and run to the furthest right corner), Ruins of Unte&nbsp;(flowery courtyard), or Ancient Ruins of Rauh&nbsp;(on a tower connected by an invisible floor).&nbsp;</li>"
+            },
+            "0026E8F0": {
+                "name": "Sword of Light",
+                "type": "chest",
+                "hint": "<li>Obtained by raising the Stone-Sheathed Sword at the altar in the Ruins of Unte. The altar area is only accessible after using a Hefty Furnace Pot and throwing it at the head of the deactivated Furnace Golem that blocks the entrance so that it moves away.</li>"
+            },
+            "00271000": {
+                "name": "Sword of Darkness",
+                "type": "chest",
+                "hint": "<li>Transformed from Stone-Sheathed Sword, or Sword of Light.</li>"
+            },
+            "00DD67B0": {
+                "name": "Death Knight's Twin Axes",
+                "type": "boss",
+                "hint": "<li>Fog Rift Catacombs:&nbsp;The weapon is obtained as a reward for defeating the Death Knight boss.&nbsp;</li>"
+            },
+            "20001B58": {
+                "name": "Crimson Amber Medallion +3",
+                "type": "boss",
+                "hint": "<li>A +3 variant of the Crimson Amber Medallion drops as a reward upon defeating the Death Knight boss located at the Fog Rift Catacombs.</li>"
+            },
+            "80064D48": {
+                "name": "Ash of War: Blinkbolt",
+                "type": "chest",
+                "hint": "<li>Found in a chest within the Fog Rift Catacombs. The room of the third spike dropper with a sorcerer sniping from the back, stand where the&nbsp;sorcerer you defeated was and bait the spike trap down to jump into a notch. Ride the notch up to a room with a chest that holds the ash of war.</li>"
+            },
+            "4021B100": {
+                "name": "Black Knight Commander Andreas",
+                "type": "chest",
+                "hint": "<li>It's located by following the Fog Rift Catacombs past a black knight guarded by x3 Messmer Soldiers and then jumping onto the top of the spike trap the falls from the ceiling and then crossing it into a corridor. The Spirit Ashes is lying in a coffin.</li>"
+            },
+            "401E9F88": {
+                "name": "Electrocharge",
+                "type": "chest",
+                "hint": "<li>In the Fog Rift Catacombs after the second lift down. Past the stake of Marika. In the room with the giant spike ceiling. In the second alcove on the left is a drop down take it. Take a left, when you're in the room take another left through the short hallway there's two mages and the electrocharge spell on a corpse</li>"
+            },
+            "401EA8EC": {
+                "name": "Ancient Dragon Knight's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Fog Rift Catacombs. After the room with the sorcerer, the path opens up. Take the right side first, fight the two goblins and grab this item from the ground.&nbsp;</li>"
+            }
+        },
+        "Fog Rift Fort": {
+            "00CDFE60": {
+                "name": "Serpent Flail",
+                "type": "chest",
+                "hint": "<li>Fog Rift Fort: Head down using the ladder past the first tower, and defeat the enemies. Beware of the flamethrowers. Use spells or arrows if you have them. Reach the end of the area to find a chest that contains this item.&nbsp;</li>"
+            },
+            "01EFE920": {
+                "name": "Black Steel Greatshield",
+                "type": "boss",
+                "hint": "<li>Can be found in:       Dropped by Black Knight Garrew&nbsp;that can be found by&nbsp;Fog Rift Fort.&nbsp;    Random drop by any Black Knight within the Realm of Shadow.&nbsp;    </li>"
+            },
+            "20001F86": {
+                "name": "Arrow's Soaring Sting Talisman",
+                "type": "chest",
+                "hint": "<li>Found on top of a tower at Fog Rift Fort. From within the door of the tower where Black Knight Garrew was, go through a gap between the tower and the rock wall to the east&nbsp;of the doorway. Hop down onto the wooden pathway and follow it until you see a ladder on your right. Take it up, after which you'll see another ladder on your left. Take it to the uppermost level of the tower.&nbsp;Here you can find the&nbsp;treasure chest&nbsp;containing&nbsp;the Talisman.&nbsp;</li>"
+            }
+        },
+        "Gravesite Plain": {
+            "104E9530": {
+                "name": "Black Knight Helm",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E9594": {
+                "name": "Black Knight Armor",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E95F8": {
+                "name": "Black Knight Gauntlets",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "104E965C": {
+                "name": "Black Knight Greaves",
+                "type": "foe",
+                "hint": "<li>A Black Knight can be found in the camp just south of the Castle Front site of grace.</li>"
+            },
+            "03D87F40": {
+                "name": "Curseblade's Cirque",
+                "type": "foe",
+                "hint": "<li>Drops from Curseblade enemies who wield it (one is located on top of an arch 10 seconds from the very first site of grace, and another is located right next to the Stage Front Site of Grace in Belurat, Tower Settlement, which is quite easy to farm).</li>"
+            },
+            "104F7F90": {
+                "name": "Curseblade Mask",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Curseblade enemies.</li>"
+            },
+            "104F7FF4": {
+                "name": "Ascetic's Loincloth",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "104F8058": {
+                "name": "Ascetic's Wrist Guards",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "104F80BC": {
+                "name": "Ascetic's Ankle Guards",
+                "type": "foe",
+                "hint": "<li>Drop by Curseblade enemies.</li>"
+            },
+            "00DD8EC0": {
+                "name": "Messmer Soldier's Axe",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers.</li>"
+            },
+            "010B2E70": {
+                "name": "Messmer Soldier's Spear",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers</li>"
+            },
+            "01E0A6E0": {
+                "name": "Messmer Soldier Shield",
+                "type": "foe",
+                "hint": "<li>Drops from shield-wielding Messmer Soldiers. Found in camps across&nbsp;Gravesite Plain and Scadu Altus, and inside Castle Ensis&nbsp;and Shadow Keep.</li>"
+            },
+            "104E6E20": {
+                "name": "Messmer Soldier Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Messmer Soldiers</li>"
+            },
+            "104E6E84": {
+                "name": "Messmer Soldier Armor",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6EE8": {
+                "name": "Messmer Soldier Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6F4C": {
+                "name": "Messmer Soldier Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "80064578": {
+                "name": "Ash of War: Overhead Stance",
+                "type": "chest",
+                "hint": "<li>Comes equipped to the Great Katana&nbsp;found next to the sleeping Ghostflame Dragon on the lake, west of the Abandoned Ailing Village site of grace.</li>"
+            },
+            "80065518": {
+                "name": "Ash of War: Savage Lion's Claw",
+                "type": "chest",
+                "hint": "<li>From the Three-Path Cross site of grace in Gravesite Plain, stick to the wall on the left side, and follow the path north. You will eventually come across a small camp where you can find the Ash of War.&nbsp;</li>"
+            },
+            "00FC1340": {
+                "name": "Swift Spear",
+                "type": "chest",
+                "hint": "<li>Can be found lying on a corpse guarded by 3 Messmer Soldiers along the road.&nbsp;&nbsp;</li>"
+            },
+            "00FC6160": {
+                "name": "Bloodfiend's Fork",
+                "type": "foe",
+                "hint": "<li>Dropped from Bloodfiends who wield it (you can find two in a melee battle not far from Ruined Forge Lave Intake)</li>"
+            },
+            "01E0F500": {
+                "name": "Serpent Crest Shield",
+                "type": "chest",
+                "hint": "<li>Can be&nbsp;obtained by completing the \"Incursion\" Painting Puzzle\"..</li>"
+            },
+            "020EBBC0": {
+                "name": "Spiraltree Seal",
+                "type": "chest",
+                "hint": "<li>Reward for completing&nbsp;\"The Sacred Tower\" Painting Puzzle.&nbsp;</li>"
+            },
+            "0297E8F0": {
+                "name": "Spread Crossbow",
+                "type": "chest",
+                "hint": "<li>A Spread Crossbow can be found on a body by the riverside and the Ellac Greatbridge. Past the Ellac Greatbridge turn right and head to the lower level. There is a smaller camp with three Messmer Soldiers. There you will find the Spread Crossbow.&nbsp;</li>"
+            },
+            "03AA6A60": {
+                "name": "Firespark Perfume Bottle",
+                "type": "chest",
+                "hint": "<li>Found in a chest guarded by both Perfurmers and Messmer Soldier.&nbsp;</li>"
+            },
+            "03AADF90": {
+                "name": "Lightning Perfume Bottle",
+                "type": "chest",
+                "hint": "<li>Found on a corpse a ways northeast of the Cerulean Coast Site of Grace, laying in a pool of water guarded by a lightning ram</li>"
+            },
+            "03D83120": {
+                "name": "Backhand Blade",
+                "type": "chest",
+                "hint": "<li>Besides a coffin, in the Inquisitor enemies area of Gravesite Plain, not far from the first site of grace.&nbsp;</li>"
+            },
+            "03F6B5A0": {
+                "name": "Great Katana",
+                "type": "chest",
+                "hint": "<li>Gravesite Plains: The Great Katana can be found next to the sleeping Ghostflame Dragon on the lake, west of the Abandoned Ailing Village site of grace.&nbsp;</li>"
+            },
+            "04153A20": {
+                "name": "Beast Claw (Weapon)",
+                "type": "boss",
+                "hint": "<li>Please visit the Beast Claw (Weapon)&nbsp;if you are looking for the Fists weapon.</li>"
+            },
+            "04156130": {
+                "name": "Red Bear's Claw",
+                "type": "boss",
+                "hint": "<li>Northern Nameless Mausoleum:&nbsp;Weapon drops upon defeating the Red Bear located at the Northern Nameless Mausoleum.&nbsp;       The path to the Northern Nameless Mausoleum may not be clear at first, due to the area appearing isolated with no apparent paths upwards. There is an unactivated spiritspring near the Temple Town Ruins (with the stone to activate it nearby) that can be used to reach the Northern Nameless Mausoleum.           The Temple Town Ruins can be reached by going forward from the path at the Ancient Ruins Base Site of Grace. If players haven't reached this grace yet, they can arrive here by going northeast of the Moorth Ruins Site of Grace to the closest water body, where an underground tunnel which will provide a path to the Ancient Ruins Base Site of Grace.          </li>"
+            },
+            "104FCE78": {
+                "name": "Gravebird Bracelets",
+                "type": "chest",
+                "hint": "<li>South the Pillar Path Waypoint site of grace,&nbsp;from a corpse at the corner of the altar.</li>"
+            },
+            "104FD1FC": {
+                "name": "Gravebird Armor",
+                "type": "chest",
+                "hint": "<li>In the area, there are four statues of Gravebirds, and at the end is where you'll find the Armor. Once you approach the statues, at least 3 of them will turn into enemies. This location is situated to the far west of the Abandoned Ailing Village, nearly reaching the outer walls of Belurat, Tower Settlement.&nbsp;</li>"
+            },
+            "20001B76": {
+                "name": "Two-Headed Turtle Talisman",
+                "type": "chest",
+                "hint": "<li>It's inside a cave beneath a waterfall guarded by enemies Just east of Rivermouth Cave.&nbsp;</li>"
+            },
+            "800635D8": {
+                "name": "Ash of War: Savage Claws",
+                "type": "boss",
+                "hint": "<li>Found on Beast Claw (Weapon).</li>"
+            },
+            "80063DA8": {
+                "name": "Ash of War: Blind Spot",
+                "type": "chest",
+                "hint": "<li>Comes equipped to the Backhand blades found besides a coffin, in the Inquisitor enemies area of Gravesite Plain, not far from the first site of grace.</li>"
+            },
+            "401E90BA": {
+                "name": "Horned Bairn",
+                "type": "boss",
+                "hint": "<li>Drops from the Lesser Ulcerated Tree Spirit near the Ellac River Cave Site of Grace.&nbsp;</li>"
+            },
+            "401EAF78": {
+                "name": "Viridian Hidden Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem roaming around Ellac River.&nbsp;</li>"
+            },
+            "401EAFBE": {
+                "name": "Deflecting Hardtear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located along the main road near the Scorched Ruins.&nbsp;</li>"
+            },
+            "401EA746": {
+                "name": "Herbalist's Bell Bearing",
+                "type": "chest",
+                "hint": "<li>Found on the west wall of the ravine between Pillar Path Waypoint and Dragon's Pit Sites of Grace in Gravesite Plain.&nbsp;</li>"
+            },
+            "401EA747": {
+                "name": "Mushroom-Seller's Bell Bearing [1]",
+                "type": "chest",
+                "hint": "<li>From the Temple Town Ruins Site of Grace in the Rauh Ruins, head south&nbsp;east along the water, which will terminate in a waterfall. To the south west of the waterfall there will be several large gravestones along the cliffside, navigate down the gravestones to the pond at the bottom. Head west following the base of the cliff and look for a black pot hanging by a rope on the side of the cliff wall. Destroy the pot to make it drop the Bell Bearing.&nbsp;</li>"
+            },
+            "401EA748": {
+                "name": "Mushroom-Seller's Bell Bearing [2]",
+                "type": "chest",
+                "hint": "<li>Ellac River Downstream: In a jar hanging off a cliff-side waterfall south of the Ellac River Downstream Grace. You need to shoot it down and retrieve it at the bottom of the waterfall</li>"
+            },
+            "401EA618": {
+                "name": "Map: Gravesite Plain",
+                "type": "chest",
+                "hint": "<li>To find this Map Fragment, travel directly northeast from when you first entered the Shadow Realm.</li>"
+            },
+            "401EA8D7": {
+                "name": "Forager Brood Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Given by a Non-hostile Servant of Rot. From the pond located to the east of the Cliffroad Terminus Site of Grace, exactly all the way south on the map. It may require certain well-timed jumps from Torrent.</li>"
+            },
+            "401EA8D8": {
+                "name": "Forager Brood Cookbook [3]",
+                "type": "chest",
+                "hint": "<li>Acquired from a pest who hands it to you if you interact with it at the north-east corner of the forest of lightning rams near the Furnace Golem on the Ellac River. Closest Site of Grace is Cerulean Coast.</li>"
+            },
+            "401EA8EB": {
+                "name": "Greater Potentate's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Looted from a body that's inside the Run-Down Traveler's Rest location in Gravesite Plain.&nbsp;</li>"
+            },
+            "401EA8E7": {
+                "name": "Greater Potentate's Cookbook [3]",
+                "type": "chest",
+                "hint": "<li>Found on a wooden fortification branching off from Fog Rift Fort. Kill the soldiers and grab the cookbook on the other side of the valley.</li>"
+            },
+            "401EA8DF": {
+                "name": "Greater Potentate's Cookbook [5]",
+                "type": "chest",
+                "hint": "<li>Found in the forest area, there are two thunder cows in the area. From Prospect Town, just follow the cliff south to find it.&nbsp;</li>"
+            },
+            "401EA8E1": {
+                "name": "Greater Potentate's Cookbook [7]",
+                "type": "chest",
+                "hint": "<li>Found in a poisonous swamp area, accessed by taking the lower south-east path from the Castle Front grace through the fighting Messmer Soldiers and Bloodfiends. A Giant Poison Miranda Sprout and several smaller ones guard the corpse holding the cookbook.&nbsp;</li>"
+            },
+            "401EA8E3": {
+                "name": "Greater Potentate's Cookbook [10]",
+                "type": "chest",
+                "hint": "<li>Near the Greatbridge, North site of grace, head towards the Abandoned Ailing Village. The item is looted from a body that is inside the north-west building. The building is separate from the others, on a ledge beneath the village. You can use your mount to jump onto the roof where you'll find a hole that you can jump through.&nbsp;</li>"
+            },
+            "401EA8E0": {
+                "name": "Greater Potentate's Cookbook [12]",
+                "type": "chest",
+                "hint": "<li>Ellac River: From the Ellac River Cave Site of Grace, head out west to the river, then follow the river south to a waterfall. Descend from the top of the waterfall using the rocks as steps. The book can be looted from a corpse leaning on one of the elevated rocks.</li>"
+            },
+            "401EA8FC": {
+                "name": "Fire Knight's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>In the soldier camp past Ellac Greatbridge, found inside one of the tents. Beware of the black knight in the area.&nbsp;</li>"
+            }
+        },
+        "Northern Nameless Mausoleum": {
+            "104C99C4": {
+                "name": "Iron Rivet Armor",
+                "type": "boss",
+                "hint": "<li>Dropped by&nbsp;Red Bear. Red Bear can be found at the Northern Nameless Mausoleum. The Northern Nameless Mausoleum is located East of the Temple Ruins.&nbsp;</li>"
+            },
+            "104C9A28": {
+                "name": "Iron Rivet Gauntlets",
+                "type": "boss",
+                "hint": "<li>Dropped by&nbsp;Red Bear. Red Bear can be found at the Northern Nameless Mausoleum. The Northern Nameless Mausoleum is located East of the Temple Ruins.&nbsp;</li>"
+            },
+            "104C9A8C": {
+                "name": "Iron Rivet Greaves",
+                "type": "boss",
+                "hint": "<li>Dropped by&nbsp;Red Bear. Red Bear can be found at the Northern Nameless Mausoleum. The Northern Nameless Mausoleum is located East of the Temple Ruins.&nbsp;</li>"
+            },
+            "104C9D48": {
+                "name": "Fang Helm",
+                "type": "boss",
+                "hint": "<li>Armor piece drops upon defeating the Red Bear located at the Northern Nameless Mausoleum.&nbsp;</li>"
+            }
+        },
+        "Prospect Town": {
+            "00BF3150": {
+                "name": "Bloodfiend's Arm",
+                "type": "boss",
+                "hint": "<li>Guaranteed SINGLE drop from a Bloodfiends group in Prospect Town, which can be found earlygame (some players report that it is not farmable after the drop).</li>"
+            },
+            "20001F54": {
+                "name": "Outer God Heirloom",
+                "type": "chest",
+                "hint": "<li>Found inside a chest inside a small building at the top of Prospect Town.&nbsp;</li>"
+            },
+            "401EA74D": {
+                "name": "String-Seller's Bell Bearing",
+                "type": "chest",
+                "hint": "<li>Hanging from a wall in a ravine in Prospect Town in the Shadow Lands. Shoot and break the hanging pot with a bow.&nbsp;</li>"
+            }
+        },
+        "Rivermouth Cave": {
+            "402195A8": {
+                "name": "Bloodfiend Hexer's Ashes",
+                "type": "boss",
+                "hint": "<li>This is dropped by the Chief Bloodfiend Boss. Chief Bloodfiend can be found inside&nbsp;Rivermouth Cave. You can get to Rivermouth Cave by heading South from&nbsp;Temple Town Ruins&nbsp;or Southwest from&nbsp;Northern Nameless Mausoleum.&nbsp;</li>"
+            }
+        },
+        "Ruined Forge Lava Intake": {
+            "00BEE330": {
+                "name": "Anvil Hammer",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Lava Intake. Use the column you have lowered with the lever as a bridge and climb it until the end. Beware of the fire blob, and then at the top, turn right and jump to reach the stairs. Climb them up and interact with a furnace to obtain this weapon and an Ancient Dragon Smithing Stone.&nbsp;</li>"
+            },
+            "03C8EEE0": {
+                "name": "Smithscript Dagger",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Lava Intake. Take the first ladder down, past the golem, and after the fire blob turn right. As soon as you enter the room past the Fire Blob, slightly to the left. You can also drop down to this area from the lever's location. At the end of the hallway, you will find a golem and this weapon on a corpse near the back wall.&nbsp;</li>"
+            },
+            "401EA8E8": {
+                "name": "Greater Potentate's Cookbook [13]",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Lava Intake. Take the first ladder down, and go up the set of stairs on the right, you will find it on a body near the back wall. This cookbook allows you to craft a Hefty Volcano Pot.&nbsp;</li>"
+            }
+        },
+        "Scorched Ruins": {
+            "20002026": {
+                "name": "Blade of Mercy",
+                "type": "chest",
+                "hint": "<li>From the&nbsp;Scorched Ruins&nbsp;Site of Grace, go SW onto the first sunken building roof you see.&nbsp;Use the cloth draped across the roof to climb onto the larger structure. Follow the path until you see stairs on your left. Go up the stairs and open the door. Inside is a chest, open it to find the item.&nbsp;       Alternatively, there is a route with stairs that you can take on-foot.&nbsp;Go to the center of the ruins, look directly west, and you will see the stairs at the beginning of the winding path.    </li>"
+            },
+            "401EA8DD": {
+                "name": "Greater Potentate's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Scorched Ruins: From the Hefty Cracked Pot, just head right until a set of stairs is on your left. Take them and continue forward to find the cookbook.&nbsp;</li>"
+            }
+        },
+        "Western Nameless Mausoleum": {
+            "00362B30": {
+                "name": "Greatsword of Solitude",
+                "type": "boss",
+                "hint": "<li>This item is obtained after defeating the Blackgaol Knight. This boss is located inside the Western Nameless Mausoleum.&nbsp;</li>"
+            },
+            "104E4710": {
+                "name": "Helm of Solitude",
+                "type": "boss",
+                "hint": "<li>Ccan be obtained after defeating the Blackgaol Knight found inside Western Nameless Mausoleum.&nbsp;</li>"
+            },
+            "104E4774": {
+                "name": "Armor of Solitude",
+                "type": "boss",
+                "hint": "<li>Can be obtained after defeating the Blackgaol Knight found inside Western Nameless Mausoleum.&nbsp;</li>"
+            },
+            "104E47D8": {
+                "name": "Gauntlets of Solitude",
+                "type": "boss",
+                "hint": "<li>Can be obtained after defeating the&nbsp;Blackgaol Knight&nbsp;found inside Western Nameless Mausoleum.&nbsp;</li>"
+            },
+            "104E483C": {
+                "name": "Greaves of Solitude",
+                "type": "boss",
+                "hint": "<li>Can be obtained after defeating the Blackgaol Knight found inside Western Nameless Mausoleum.&nbsp;</li>"
+            }
+        }
+    },
+    "Scadu Altus": {
+        "Bonny Gaol": {
+            "0148D3B0": {
+                "name": "Shield of Night",
+                "type": "chest",
+                "hint": "<li>Can be found in&nbsp;Bonny Gaol. The top level of this gaol can be accessed after using the jar lift near the bridge twice. You need to jump off at the&nbsp;bridge level, activate the switch, and then ride the jar going up. You will find this on the ledge behind the corpse on top of a table.</li>"
+            },
+            "104DAAD0": {
+                "name": "Helm of Night",
+                "type": "chest",
+                "hint": "<li>Bonny Gaol: Use the jar lift near the bridge twice to reach the top level of the gaol. First, hop on the jar, go to the bridge level, and activate the switch. Ride the jar lift for the second time to go to the top level. You can find the&nbsp;Night Set&nbsp;on a corpse laying on top of a table.&nbsp;</li>"
+            },
+            "104DAB34": {
+                "name": "Armor of Night",
+                "type": "chest",
+                "hint": "<li>Bonny Gaol: Use the jar lift near the bridge twice to reach the top level of the gaol. First, hop on the jar, go to the bridge level, and activate the switch. Ride the jar lift for the second time to go to the top level. You can find the&nbsp;Night Set&nbsp;on a corpse laying on top of a table.&nbsp;</li>"
+            },
+            "104DAB98": {
+                "name": "Gauntlets of Night",
+                "type": "chest",
+                "hint": "<li>Bonny Gaol: Use the jar lift near the bridge twice to reach the top level of the gaol. First, hop on the jar, go to the bridge level, and activate the switch. Ride the jar lift for the second time to go to the top level. You can find the&nbsp;Night Set&nbsp;on a corpse laying on top of a table.&nbsp;</li>"
+            },
+            "104DABFC": {
+                "name": "Greaves of Night",
+                "type": "chest",
+                "hint": "<li>Bonny Gaol: Use the jar lift near the bridge twice to reach the top level of the gaol. First, hop on the jar, go to the bridge level, and activate the switch. Ride the jar lift for the second time to go to the top level. You can find the&nbsp;Night Set&nbsp;on a corpse laying on top of a table.&nbsp;</li>"
+            },
+            "20001B80": {
+                "name": "Stalwart Horn Charm +2",
+                "type": "chest",
+                "hint": "<li>+2&nbsp;variant can be found at&nbsp;Bonny Gaol:&nbsp;After you jump down the hole, head east past the rats and climb up the ladder. Defeat the Inner Jar monster, you will find the talisman in the room.&nbsp;</li>"
+            },
+            "402191C0": {
+                "name": "Curseblade Meera",
+                "type": "boss",
+                "hint": "<li>Dropped by Curseblade Labirith&nbsp;at the end of Bonny Gaol.&nbsp;</li>"
+            }
+        },
+        "Bonny Village": {
+            "00ECA9F0": {
+                "name": "Bonny Butchering Knife",
+                "type": "chest",
+                "hint": "<li>Bonny Village: Below a small shed, outside a house. Near the broken bridge.&nbsp;</li>"
+            },
+            "401EA7AC": {
+                "name": "O Mother",
+                "type": "chest",
+                "hint": "<li>Found north of Bonny Village, in front of a headless statue.</li>"
+            }
+        },
+        "Cathedral of Manus Metyr": {
+            "401E954C": {
+                "name": "Miriam's Vanishing",
+                "type": "merchant",
+                "hint": "<li>Can be purchased from&nbsp;Count Ymir&nbsp;at the&nbsp;Cathedral of Manus Metyr&nbsp;for&nbsp;&nbsp;10,000&nbsp;Runes&nbsp;</li>"
+            },
+            "401E9614": {
+                "name": "Glintstone Nail",
+                "type": "merchant",
+                "hint": "<li>Can be bought from Count Ymir after completing the first step of his quest.</li>"
+            },
+            "401E961E": {
+                "name": "Glintstone Nails",
+                "type": "merchant",
+                "hint": "<li>Can be bought from Count Ymir after completing the first step of his quest.&nbsp;</li>"
+            },
+            "401EA172": {
+                "name": "Fleeting Microcosm",
+                "type": "merchant",
+                "hint": "<li>Purchased from Count Ymir after sounding the second bell.&nbsp;</li>"
+            }
+        },
+        "Church of the Crusade": {
+            "80065130": {
+                "name": "Ash of War: Flame Skewer",
+                "type": "invader",
+                "hint": "<li>Acquired as a drop upon defeating the NPC Invader Fire Knight Queelign a second time.&nbsp;</li>"
+            }
+        },
+        "Darklight Catacombs": {
+            "00DDDCE0": {
+                "name": "Forked-Tongue Hatchet",
+                "type": "foe",
+                "hint": "<li>Dropped by Imps in catacombs (you can farm it in Scorpion River Catacombs)</li>"
+            },
+            "010B5580": {
+                "name": "Barbed Staff-Spear",
+                "type": "boss",
+                "hint": "<li>This can be dropped by Jori Elder Inquisitor&nbsp;who can be found in the Abyssal Woods.&nbsp;</li>"
+            },
+            "104F5880": {
+                "name": "Death Knight Helm",
+                "type": "chest",
+                "hint": "<li>Darklight Catacombs, on a&nbsp;Death Knight corpse</li>"
+            },
+            "104F58E4": {
+                "name": "Death Knight Armor",
+                "type": "chest",
+                "hint": "<li>Darklight Catacombs, on a&nbsp;Death Knight corpse&nbsp;</li>"
+            },
+            "104F5948": {
+                "name": "Death Knight Gauntlets",
+                "type": "chest",
+                "hint": "<li>Darklight Catacombs, on a&nbsp;Death Knight corpse&nbsp;</li>"
+            },
+            "104F59AC": {
+                "name": "Death Knight Greaves",
+                "type": "chest",
+                "hint": "<li>Darklight Catacombs, on a&nbsp;Death Knight corpse&nbsp;</li>"
+            },
+            "20001B6C": {
+                "name": "Viridian Amber Medallion +3",
+                "type": "chest",
+                "hint": "<li>+3 Variant: Darklight Catacombs, right after the first canon imp. Jump over on the ledge to the right and then drop down to that small archway under it.</li>"
+            },
+            "4021B8D0": {
+                "name": "Bigmouth Imp Ashes",
+                "type": "boss",
+                "hint": "<li>Darklight Catacombs: After descending to a lower level for a second time, you will find yourself in a hall with a giant Bigmouth Imp shooting fireballs at you.&nbsp;</li>"
+            }
+        },
+        "Eastern Nameless Mausoleum": {
+            "03F703C0": {
+                "name": "Rakshasa's Great Katana",
+                "type": "boss",
+                "hint": "<li>Dropped by Rakshasa in Eastern Nameless Mausoleum. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            },
+            "104EBC40": {
+                "name": "Rakshasa Helm",
+                "type": "boss",
+                "hint": "<li>Dropped by Rakshasa in Eastern Nameless Mausoleum. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            },
+            "104EBCA4": {
+                "name": "Rakshasa Armor",
+                "type": "boss",
+                "hint": "<li>Dropped by Rakshasa in Eastern Nameless Mausoleum. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            },
+            "104EBD08": {
+                "name": "Rakshasa Gauntlets",
+                "type": "boss",
+                "hint": "<li>Dropped by Rakshasa in Eastern Nameless Mausoleum. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            },
+            "104EBD6C": {
+                "name": "Rakshasa Greaves",
+                "type": "boss",
+                "hint": "<li>Dropped by Rakshasa in Eastern Nameless Mausoleum. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            }
+        },
+        "Finger Ruins of Miyr": {
+            "015752A0": {
+                "name": "Claws of Night",
+                "type": "invader",
+                "hint": "<li>Dropped by NPC invader Swordhand of Night Anna, found in the Finger Ruins of Miyr underneath Cathedral of Manus Metyr. This area can only be accessed by progressing Ymir's questline.&nbsp;</li>"
+            },
+            "401EA8DC": {
+                "name": "Finger-Weaver's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Found on a corpse before the bell in Finger Ruins of Miyr. Only accessible after progressing Ymir's questline and finding the secret path under the Catherdal.&nbsp;</li>"
+            }
+        },
+        "Fort of Reprimand": {
+            "20001BBC": {
+                "name": "Flamedrake Talisman +3",
+                "type": "chest",
+                "hint": "<li>A +3 variation of the Flamedrake Talisman can be found at the Fort of Reprimand inside a chest. Entering through the front gate, go down the staircase in the back right corner. Continue&nbsp;through the doorway on the left side of the hallway and follow this path until you see two soldiers standing in front of a body. Climb over the cages to their left and it will lead you to the chest that contains the talisman.&nbsp;&nbsp;</li>"
+            },
+            "80030DA4": {
+                "name": "Ash of War: Aspects of the Crucible: Wings",
+                "type": "boss",
+                "hint": "<li>Fort of Reprimand: Black Knight Edredd drops this Ash of War upon defeat.</li>"
+            },
+            "4021AD18": {
+                "name": "Messmer Soldier Ashes",
+                "type": "chest",
+                "hint": "<li>Fort of Reprimand: From the&nbsp;main courtyard where you fight the Omenkiller, turn due North while facing the gallows. A&nbsp;chute will be visible. It will lead outside&nbsp;where you will find the spirit ashes near a grave.&nbsp;</li>"
+            },
+            "401EA8F4": {
+                "name": "Battlefield Priest's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Fort Reprimand. Take the ladders up after defeating Black Knight Edredd.&nbsp; It is inside the chest at the top.&nbsp;&nbsp;</li>"
+            }
+        },
+        "Moorth Ruins": {
+            "20001F5E": {
+                "name": "Shattered Stone Talisman",
+                "type": "chest",
+                "hint": "<li>Moorth Ruins. Fall on the first rooftop visible from the gap on the ground, turn left, and walk on the ledge to find the Talisman.&nbsp;</li>"
+            },
+            "80061E68": {
+                "name": "Ash of War: Palm Blast",
+                "type": "boss",
+                "hint": "<li>Found on the Dryleaf Arts weapon.       At the Moorth Ruins Site of Grace, use the \"May The Best Win\" emote in front of the DryLeaf Dane Monk, you will then begin a battle and winning will grant you the weapon and it's Ash of War.    </li>"
+            },
+            "401EA294": {
+                "name": "Golden Arcs",
+                "type": "chest",
+                "hint": "<li>Head southeast of Moorth Ruins. From the Shattered Stone Talisman chest, drop down to the nearest platform and continue descending until you reach the ground where three Inquisitors are situated. Defeat them and enter the small building nearby to find this item inside a chest.</li>"
+            }
+        },
+        "Rabbath's Rise": {
+            "02A70420": {
+                "name": "Rabbath's Cannon",
+                "type": "chest",
+                "hint": "<li>Rabbath's Rise. After you free the Spiritspring, head outside and use it while mounted on Torrent to reach the higher part of the tower. Loot the chest at the top to obtain this weapon.&nbsp;</li>"
+            },
+            "401EA74C": {
+                "name": "Spellmachinist's Bell Bearing",
+                "type": "chest",
+                "hint": "<li>Starting at Shaman Village head southeast and follow the path to the lower peak, from here carefully jump down the ledges until you overlook Rabbath's Rise. Carefully jump to the balcony below and enter the room, jump to the lower level and you will see a body containing the bell bearing.&nbsp;</li>"
+            }
+        },
+        "Ruined Forge of Starfall Past": {
+            "0044AA20": {
+                "name": "Ancient Meteoric Ore Greatsword",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Starfall Past:&nbsp;The weapon is acquired after examining the altar of the Ruined Forge of Starfall Past. The altar is found on the second level. To reach the altar, you must pull the lever to make the iron door rise, and use it as a platform to jump across to the second level where the altar is.&nbsp;&nbsp;</li>"
+            },
+            "00FBC520": {
+                "name": "Smithscript Spear",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Starfall Past:&nbsp;The weapon is looted from a body located on the main floor of the Ruined Forge of Starfall Past.&nbsp;</li>"
+            },
+            "03D85830": {
+                "name": "Smithscript Cirque",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Starfall Past&nbsp;</li>"
+            },
+            "20001FAE": {
+                "name": "Smithing Talisman",
+                "type": "chest",
+                "hint": "<li>Ruined Forge Starfall Past&nbsp;</li>"
+            }
+        },
+        "Ruins of Unte": {
+            "0026C1E0": {
+                "name": "Stone-Sheathed Sword",
+                "type": "chest",
+                "hint": "<li>Can be acquired at one of the 3 Altar locations:&nbsp;Fog Rift Catacombs&nbsp;(on top of the 3 trap platforms and run to the furthest right corner), Ruins of Unte&nbsp;(flowery courtyard), or Ancient Ruins of Rauh&nbsp;(on a tower connected by an invisible floor).&nbsp;</li>"
+            },
+            "0026E8F0": {
+                "name": "Sword of Light",
+                "type": "chest",
+                "hint": "<li>Obtained by raising the Stone-Sheathed Sword at the altar in the Ruins of Unte. The altar area is only accessible after using a Hefty Furnace Pot and throwing it at the head of the deactivated Furnace Golem that blocks the entrance so that it moves away.</li>"
+            },
+            "00271000": {
+                "name": "Sword of Darkness",
+                "type": "chest",
+                "hint": "<li>Transformed from Stone-Sheathed Sword, or Sword of Light.</li>"
+            },
+            "401EA29E": {
+                "name": "Giant Golden Arc",
+                "type": "chest",
+                "hint": "<li>Obtained by looting a chest in the Ruins of Unte. The chest is inside a building in a flower area that is only accessible after using a Hefty Furnace Pot and throwing it at the head of the deactivated Furnace Golem that blocks the entrance so that it moves away.</li>"
+            },
+            "401EAFA0": {
+                "name": "Oil-Soaked Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located at the Ruins of Unte.&nbsp;</li>"
+            },
+            "401EAFAA": {
+                "name": "Bloodsucking Cracked Tear",
+                "type": "boss",
+                "hint": "<li>Ruins of Unte: Defeat the Furnace Golem that requires to be lit by throwing a Hefty Furnace Pot&nbsp;on its furnace head. Killing the creature drops this item, along with x1 Furnace Visage.&nbsp;</li>"
+            }
+        },
+        "Scadu Altus": {
+            "00DD8EC0": {
+                "name": "Messmer Soldier's Axe",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers.</li>"
+            },
+            "010B2E70": {
+                "name": "Messmer Soldier's Spear",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers</li>"
+            },
+            "01E0A6E0": {
+                "name": "Messmer Soldier Shield",
+                "type": "foe",
+                "hint": "<li>Drops from shield-wielding Messmer Soldiers. Found in camps across&nbsp;Gravesite Plain and Scadu Altus, and inside Castle Ensis&nbsp;and Shadow Keep.</li>"
+            },
+            "104E6E20": {
+                "name": "Messmer Soldier Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Messmer Soldiers</li>"
+            },
+            "104E6E84": {
+                "name": "Messmer Soldier Armor",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6EE8": {
+                "name": "Messmer Soldier Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6F4C": {
+                "name": "Messmer Soldier Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "80062250": {
+                "name": "Ash of War: Piercing Throw",
+                "type": "scarab",
+                "hint": "<li>Found on a scarab juust east of the Ruined Forge of Starfall Past Site of Grace. You'll find it guarded by a small group of Demi-Humans between a crumbled column.&nbsp;</li>"
+            },
+            "00A05EB0": {
+                "name": "Black Steel Twinblade",
+                "type": "foe",
+                "hint": "<li>Drops from the Black Knight&nbsp;located at the top of western camp in Scadu Altus&nbsp;(Northeast of Church of the Crusade)</li>"
+            },
+            "020E6DA0": {
+                "name": "Dryleaf Seal",
+                "type": "chest",
+                "hint": "<li>Found on a ledge under a cave guarded by gravebirds in the area under Bonny Village. You can only reach this section by going through the secret passage in Shadow Keep and using the coffin there to transport to Ruins of Unte via Castle Watering Hole. From Ruins of Unte, make your way to the Recluses' River Upstream site of grace, then ride south along the cliffs. Cross the chasm and continue onwards, making your way to a small graveyard guarded by grave-birds. Near the ledge there is a game-message which indicates the point to drop down to find this item.</li>"
+            },
+            "0297C1E0": {
+                "name": "Repeating Crossbow",
+                "type": "chest",
+                "hint": "<li>Along the road next to the Ghostflame Dragon north of the Moorth Highway, South site of Grace.</li>"
+            },
+            "03AB06A0": {
+                "name": "Deadly Poison Perfume Bottle",
+                "type": "merchant",
+                "hint": "<li>Can be purchased from the&nbsp;Thiollier&nbsp;for 6000 Runes.&nbsp;</li>"
+            },
+            "104C9960": {
+                "name": "Pelt of Ralva",
+                "type": "boss",
+                "hint": "<li>This is a helmet type of armor that can be obtained after defeating Ralva the Great Red Bear. It is known to enhance incantations of what is jokingly called \"Bear Communion.\"&nbsp;</li>"
+            },
+            "104F3558": {
+                "name": "Leather Crown",
+                "type": "chest",
+                "hint": "<li>Found laying on the grounds in the middle of the woods, alongside the rest of the&nbsp;Highland Warrior Set.</li>"
+            },
+            "104F35BC": {
+                "name": "Highland Attire",
+                "type": "chest",
+                "hint": "<li>Found laying on the grounds in the middle of the woods, alongside the rest of the Highland Warrior Set.</li>"
+            },
+            "104FCEDC": {
+                "name": "Gravebird Anklets",
+                "type": "chest",
+                "hint": "<li>Found in a swamp infested with Gravebirds, below a big archway.&nbsp;</li>"
+            },
+            "80062E08": {
+                "name": "Ash of War: Rolling Sparks",
+                "type": "scarab",
+                "hint": "<li>This can be looted from a flying scarab on the eastern side of the large camp south of Shadow Keep. Ascend the hill past some perfumers and you'll find it at the top in the air above.&nbsp;</li>"
+            },
+            "800631F0": {
+                "name": "Ash of War: Raging Beast",
+                "type": "scarab",
+                "hint": "<li>From the&nbsp;Bridge Leading to the Village&nbsp;Grace follow the path heading North.&nbsp; Once you get to the trees, keep looking east for a teleporting Teardrop Scarab&nbsp;that will have the Ash of War.</li>"
+            },
+            "800660D0": {
+                "name": "Ash of War: Carian Sovereignty",
+                "type": "scarab",
+                "hint": "<li>Acquired from a teardrop scarab inside a cave south west from Cathedral of Manus Metyr filled with glintslab fireflies. The scarab is located on the ceiling of the cave. To find this cave go to the Church District Highroad Site of Grace. Head directly west until you reach the cliffline and then continue south. The cave is embedded in the east cliff wall at the end of this path.</li>"
+            },
+            "401E9D80": {
+                "name": "Heal from Afar",
+                "type": "chest",
+                "hint": "<li>This spell can be looted on the ground by the foot of an underground golden tree. It is located in a cave path to the base of the Rauh Ruins, north-northeast of the Moorth Ruins in Scadu Atlus.</li>"
+            },
+            "401EAF82": {
+                "name": "Crimsonburst Dried Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located around the army campsite, outside of the Shadow Keep.&nbsp;</li>"
+            },
+            "401EAF96": {
+                "name": "Cerulean-Sapping Cracked Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located east of the Cathedral of Manus Metyr within the Scadu Atlus region.&nbsp;</li>"
+            },
+            "401EA749": {
+                "name": "Greasemonger's Bell Bearing",
+                "type": "chest",
+                "hint": "<li>It can be found north of the Bridge Leading to the Village grace. Go past the giant, follow the road, and look for a pack of wolves on the left. The pot containing the bell bearing is hanging near them.&nbsp;</li>"
+            },
+            "401EA74A": {
+                "name": "Moldmonger's Bell Bearing",
+                "type": "chest",
+                "hint": "<li> Inside a pot hanging from a rock wall right next to the Recluse’s River Downstream grace. Shoot it down with a bow and drop down from the graves sticking out from the waterfall to grab it.&nbsp; </li>"
+            },
+            "401EA7A9": {
+                "name": "May the Best Win",
+                "type": "chest",
+                "hint": "<li>Laying on the ground near the Highroad Cross Site of grace. Obtained once you pick up the Monk's Missive. </li>"
+            },
+            "401EA619": {
+                "name": "Map: Scadu Altus",
+                "type": "chest",
+                "hint": "<li>It can be found if you continue the path forward past the Highroad Cross Site of Grace, you will eventually run into it.</li>"
+            },
+            "401EA8D6": {
+                "name": "Forager Brood Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Acquired from a pest who hands it to you if you interact with him just west-northwest of Ruined Forge of Starfall Past along the cliffside.</li>"
+            },
+            "401EA8D9": {
+                "name": "Forager Brood Cookbook [4]",
+                "type": "chest",
+                "hint": "<li>Acquired by interacting with a pest found north of Church of the Crusade. The pest will be found shivering and unresponsive. Use a Warming Stone or Sunwarmth Stone&nbsp;to warm it up, and reload the area by teleporting or logging out. It can now be interacted with and will grant the cookbook.</li>"
+            },
+            "401EA8DA": {
+                "name": "Forager Brood Cookbook [5]",
+                "type": "chest",
+                "hint": "<li>Acquired by interacting with the pest found along the right cliff edge in the Deathbird-infested poisonous swamp north of Moorth ruins. The swamp can be reached by going through the cave with the Miranda flowers and Perfumers.</li>"
+            },
+            "401EA8D5": {
+                "name": "Forager Brood Cookbook [6]",
+                "type": "chest",
+                "hint": "<li>Acquired by interacting with the pest found east outside of the Shadow Keep. It can be accessed from the Church District Highroad site of grace and traveling West up the cliff&nbsp;above the tunnel road, then continuing West to the outer wall of the keep.</li>"
+            },
+            "401EA8DE": {
+                "name": "Greater Potentate's Cookbook [4]",
+                "type": "chest",
+                "hint": "<li>East of Cathedral of Manus Metyr. Can be found on a corpse sitting on the ground, surrounded by multiple Marionette Soldiers.&nbsp;</li>"
+            },
+            "401EA8EF": {
+                "name": "Fire Knight's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>East of the Highroad Cross Site of Grace, there is a messmer soldiers encampment. On one of the tents you can find this item.&nbsp;</li>"
+            },
+            "401EA8FB": {
+                "name": "Battlefield Priest's Cookbook [3]",
+                "type": "chest",
+                "hint": "<li>The item can be looted from a corpse, located inside an army tent.&nbsp;</li>"
+            }
+        },
+        "Shadow Keep": {
+            "00DD8EC0": {
+                "name": "Messmer Soldier's Axe",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers.</li>"
+            },
+            "010B2E70": {
+                "name": "Messmer Soldier's Spear",
+                "type": "foe",
+                "hint": "<li>Dropped by Messmer Soldiers</li>"
+            },
+            "01E0A6E0": {
+                "name": "Messmer Soldier Shield",
+                "type": "foe",
+                "hint": "<li>Drops from shield-wielding Messmer Soldiers. Found in camps across&nbsp;Gravesite Plain and Scadu Altus, and inside Castle Ensis&nbsp;and Shadow Keep.</li>"
+            },
+            "104E6E20": {
+                "name": "Messmer Soldier Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Messmer Soldiers</li>"
+            },
+            "104E6E84": {
+                "name": "Messmer Soldier Armor",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6EE8": {
+                "name": "Messmer Soldier Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "104E6F4C": {
+                "name": "Messmer Soldier Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by Messmer Soldiers</li>"
+            },
+            "10509100": {
+                "name": "Shadow Militiaman Helm",
+                "type": "foe",
+                "hint": "<li>Around the Shadow Keep       Out the door to the South-East of the Main Gate Plaza Site of Grace. Four spawn right outside the door, and with the Site of Grace being close this is a great place to farm the armor set.    Before the elevator to Storehouse, First Floor Site of Grace    Inside the Storehouse location    </li>"
+            },
+            "10509164": {
+                "name": "Shadow Militiaman Armor",
+                "type": "foe",
+                "hint": "<li>Around the Shadow Keep       Out the door to the South-East of the Main Gate Plaza Site of Grace. Four spawn right outside the door, and with the Site of Grace being close this is a great place to farm the armor set.    Before the elevator to Storehouse, First Floor Site of Grace    Inside the Storehouse location    </li>"
+            },
+            "20002008": {
+                "name": "Talisman of Lord's Bestowal",
+                "type": "chest",
+                "hint": "<li>Shadow Keep. Can be found beside the big golden tree.</li>"
+            },
+            "0016E360": {
+                "name": "Main-gauche",
+                "type": "chest",
+                "hint": "<li>Shadow Keep: Midway through the Stairs, turn right and enter the room. Enter the room on the right, and defeat the enemies to find the body that contains this weapon on the other side.</li>"
+            },
+            "00170A70": {
+                "name": "Fire Knight's Shortsword",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights wielding this weapon in Shadow Keep</li>"
+            },
+            "0044F840": {
+                "name": "Fire Knight's Greatsword",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights (Shadow Keep)</li>"
+            },
+            "00632EA0": {
+                "name": "Queelign's Greatsword",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;Use Iris of Occultation on the NPC in the Prayer Room to receive Queelign's Greatsword.&nbsp;</li>"
+            },
+            "020E94B0": {
+                "name": "Fire Knight's Seal",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;In the area with the giant Queen Marika statue, it is behind the statue. You have to use the lever to lower the water level.&nbsp;</li>"
+            },
+            "03B9ACA0": {
+                "name": "Dueling Shield",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;From the middle area, take the set of stairs to the next floor. Move to the eastern side, climb the wooden platform, and fight the Vulgar Militiamen. Use the stone platforms to reach the other side, the item is against the wall.&nbsp;</li>"
+            },
+            "03B9D3B0": {
+                "name": "Carian Thrusting Shield",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;Past the Storehouse site of grace, continue forward you will reach a room where you find a Fire Knight and a few other enemies. The item is right past the Fire Knight and can be found on a corpse under the table.&nbsp;</li>"
+            },
+            "104F0A60": {
+                "name": "Fire Knight Helm",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights in the&nbsp;Shadow Keep</li>"
+            },
+            "104F0AC4": {
+                "name": "Fire Knight Armor",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights in the&nbsp;Shadow Keep</li>"
+            },
+            "104F0B28": {
+                "name": "Fire Knight Gauntlets",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights in the&nbsp;Shadow Keep</li>"
+            },
+            "104F0B8C": {
+                "name": "Fire Knight Greaves",
+                "type": "foe",
+                "hint": "<li>Drop by&nbsp;Fire Knights in the&nbsp;Shadow Keep</li>"
+            },
+            "104F1230": {
+                "name": "Death Mask Helm",
+                "type": "boss",
+                "hint": "<li>Drops from a Fire Knight miniboss&nbsp;in the cathedral area of Shadow Keep, after draining out the water.</li>"
+            },
+            "104F1618": {
+                "name": "Winged Serpent Helm",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;Sixth Floor: Climb the statues once you've used the lever to move them. Head outside, turn right and head up the stairs, turn left to&nbsp; the bridge which leads to Messmer boss fight, the Fire knight is right before and drops this item and Ash of War: Flame Spear.</li>"
+            },
+            "105091C8": {
+                "name": "Shadow Militiaman Gauntlets",
+                "type": "foe",
+                "hint": "<li>Around the Shadow Keep       Out the door to the South-East of the Main Gate Plaza Site of Grace. Four spawn right outside the door, and with the Site of Grace being close this is a great place to farm the armor set.    Before the elevator to Storehouse, First Floor Site of Grace    Inside the Storehouse location    </li>"
+            },
+            "1050922C": {
+                "name": "Shadow Militiaman Greaves",
+                "type": "foe",
+                "hint": "<li>Around the Shadow Keep       Out the door to the South-East of the Main Gate Plaza Site of Grace. Four spawn right outside the door, and with the Site of Grace being close this is a great place to farm the armor set.    Before the elevator to Storehouse, First Floor Site of Grace    Inside the Storehouse location    </li>"
+            },
+            "20001BC6": {
+                "name": "Boltdrake Talisman +3",
+                "type": "chest",
+                "hint": "<li>Boltdrake Talisman +3, can be found at&nbsp;Shadow Keep. Site of Grace, First Floor, take the small stairs up and turn right while on the wooden platform. You will be attacked by a Fire Knight at a Distance, jump at what appears to be a dining area with tables and chairs to find the item there.</li>"
+            },
+            "20001BDA": {
+                "name": "Pearldrake Talisman +3",
+                "type": "chest",
+                "hint": "<li>+3 Variation sote new: Can be found within Shadow Keep, Specimen Storehouse. You must progress until the seventh floor to pull the lever that moves the statues. Once you do this, return to the third floor and find the head of the statue to pull this item from its beard. One way to do this is to visit the Storehouse, Fourth Floor site of grace, turn around and go East to the railing, then do a big jump from the railing to the feet of the statue below. After landing, run across the statue's back until you can drop down and loot the talisman. </li>"
+            },
+            "80062A20": {
+                "name": "Ash of War: Wall of Sparks",
+                "type": "chest",
+                "hint": "<li>Shadow Keep: Take the left lift down from the Storehouse, first-floor site of grace. take the first exit to the right, and then the first one to the left. You will find this item on a corpse sitting on the rails.&nbsp;</li>"
+            },
+            "80065CE8": {
+                "name": "Ash of War: Flame Spear",
+                "type": "boss",
+                "hint": "<li>Shadow Keep, Sixth Floor: Climb the statues once you've used the lever to move them. Head outside, turn right and head up the stairs, turn left to find a Fire Knight at the end of the bridge. Drops this item and Winged Serpent Helm.&nbsp;&nbsp;</li>"
+            },
+            "800C3500": {
+                "name": "Ash of War: Shield Strike",
+                "type": "chest",
+                "hint": "<li>Found on Dueling Shield and Carian Thrusting Shield.       Dueling Shield Map Location -    Carian Thrusting Shield Location -    </li>"
+            },
+            "40219D78": {
+                "name": "Fire Knight Hilde",
+                "type": "chest",
+                "hint": "<li>Shadow Keep:&nbsp;From the gear in which you found Wrath from Afar, jump towards the next platform and head to the ladder on the left. Climb it up. Once at the top, take the wooden beam on your left and turn right towards the lift. Activate the lift but quickly return to the platform. Another lift will appear do the same, and jump on the first lift Roof. Stay there until it stops. Jump across the platform to reach the corpse on the other side and loot the Spirit Ash.</li>"
+            },
+            "4021D810": {
+                "name": "Fire Knight Queelign",
+                "type": "chest",
+                "hint": "<li>For more information about this NPC, please visit the NPC page of&nbsp;Fire Knight Queelign (NPC).</li>"
+            },
+            "401E97A4": {
+                "name": "Mantle of Thorns",
+                "type": "boss",
+                "hint": "<li>Shadow Keep: This item drops from the Lesser Ulcerated Spirit enemy that emerges beneath the ground, near the large tree. Can only be accessed upon draining the water in the Church District.</li>"
+            },
+            "401E97AE": {
+                "name": "Impenetrable Thorns",
+                "type": "chest",
+                "hint": "<li>In Shadow Keep from the Storehouse, Seventh Floor site of grace, cross the center of the storeroom after pulling the lever to rotate the center beams. Once outside, carefully walk off the ledge (you'll see a bat below). You'll find the spell on a corpse.&nbsp;</li>"
+            },
+            "401E9E7A": {
+                "name": "Aspects of the Crucible: Thorns",
+                "type": "boss",
+                "hint": "<li>Dropped by the Golden Hippopotamus&nbsp;by going&nbsp;up the elevator in the Shadow Keep Main Gate.&nbsp;</li>"
+            },
+            "401E9EA2": {
+                "name": "Wrath from Afar",
+                "type": "chest",
+                "hint": "<li> Take the elevator at the Storehouse, Loft site of grace in Shadow Keep. Once you are on the upper level, turn left, and turn left again. As soon as you can turn right. Beware of the bat hanging from the ceiling. Reach the other side, and take the ladder up. Turn left and move towards the area in which there is a giant gear (the one that does not have a bat on it), once you are aligned fall down to find the spell behind the column. </li>"
+            },
+            "401EA2F8": {
+                "name": "Fire Serpent",
+                "type": "chest",
+                "hint": "<li>Shadow Keep: From the \"Storehouse, Backsection\" site of grace, climb up the very long ladder, pass the enemies, and move forward past the book reading spirits until you reach the balcony. You will find the item there.</li>"
+            },
+            "401EA8F2": {
+                "name": "Battlefield Priest's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Facing the Queen Marika's statue from the front, take the right room and continue towards the stairs, to reach the upper level in which this cookbook can be found.</li>"
+            },
+            "401EA8FF": {
+                "name": "Battlefield Priest's Cookbook [4]",
+                "type": "chest",
+                "hint": "<li>Shadow Keep: Take the left lift down from the Storehouse, first floor site of grace. take the first exit to the right and continue forwad until the end of thehallway. Kill the enemy, and take the left route, hit the wall to reveal a path.&nbsp;The&nbsp;Battlefield Priest's Cookbook [4]&nbsp;is on a corpse, after the revealed hidden door.&nbsp;</li>"
+            }
+        },
+        "Village of Flies": {
+            "4021BCB8": {
+                "name": "Man-Fly Ashes",
+                "type": "chest",
+                "hint": "<li>Spirit Ashes looted from a grub corpse in Village of the Flies. Can only be accessed by going down the river from Shadow Keep and unlocking the Recluses River Downstream site of grace area. The Ashes are found on the top part of the village, guarded by two shadow casters and several man-fly enemies.</li>"
+            }
+        },
+        "Whipping Hut": {
+            "0138CE20": {
+                "name": "Tooth Whip",
+                "type": "chest",
+                "hint": "<li>Found inside the Whipping Hut.&nbsp;</li>"
+            }
+        }
+    },
+    "Rauh": {
+        "Ancient Ruins of Rauh": {
+            "0026C1E0": {
+                "name": "Stone-Sheathed Sword",
+                "type": "chest",
+                "hint": "<li>Can be acquired at one of the 3 Altar locations:&nbsp;Fog Rift Catacombs&nbsp;(on top of the 3 trap platforms and run to the furthest right corner), Ruins of Unte&nbsp;(flowery courtyard), or Ancient Ruins of Rauh&nbsp;(on a tower connected by an invisible floor).&nbsp;</li>"
+            },
+            "0026E8F0": {
+                "name": "Sword of Light",
+                "type": "chest",
+                "hint": "<li>Obtained by raising the Stone-Sheathed Sword at the altar in the Ruins of Unte. The altar area is only accessible after using a Hefty Furnace Pot and throwing it at the head of the deactivated Furnace Golem that blocks the entrance so that it moves away.</li>"
+            },
+            "00271000": {
+                "name": "Sword of Darkness",
+                "type": "chest",
+                "hint": "<li>Transformed from Stone-Sheathed Sword, or Sword of Light.</li>"
+            },
+            "10510630": {
+                "name": "Crucible Hammer-Helm",
+                "type": "boss",
+                "hint": "<li>Dropped by Devonia, Crucible Knight</li>"
+            },
+            "20002012": {
+                "name": "Verdigris Discus",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh, in front of a statue.</li>"
+            },
+            "20002030": {
+                "name": "Talisman of All Crucibles",
+                "type": "chest",
+                "hint": "<li>Start at the Ancient Ruins, Grand Starway Site of Grace, head southwest to the elevator. At bottom of the elavator looking south west, there is 2 paths of floating platforms, go to the left one, following it around and it loops to chest with this talisman.&nbsp;</li>"
+            },
+            "016694E0": {
+                "name": "Devonia's Hammer",
+                "type": "boss",
+                "hint": "<li>Crucible Knight near Rauh Ancient Ruins, East Grace.</li>"
+            },
+            "104F1A00": {
+                "name": "Salza's Hood",
+                "type": "chest",
+                "hint": "<li>From the West Rampart Site of Grace, take the bridge all the way. Use Torrent to avoid being trappped in the Rain of Fire. Defeat the Fire Knight at the end to obtain this and Rain of Fire.&nbsp;</li>"
+            },
+            "20001B62": {
+                "name": "Cerulean Amber Medallion +3",
+                "type": "boss",
+                "hint": "<li>A +3 variant of the Cerulean Amber Medallion can be obtained after defeating the&nbsp;Death Knight.&nbsp;</li>"
+            },
+            "20001BA8": {
+                "name": "Mottled Necklace +2",
+                "type": "chest",
+                "hint": "<li>+2 Version - In the Rauh Ancient ruins just after getting past the forge giant across the bridge.  You must make your way through the ruin it was in front of, and once at the top proceed past the large stone structure all the way to the end of the area and unblock the spirit spring.  Then jump down onto the spring and jump back up to the opposite side.  The necklace will be at the top of the stairs</li>"
+            },
+            "20001F4A": {
+                "name": "Fine Crucible Feather Talisman",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh: From the Rauh Ancient Ruins, East site of grace, travel to the north west through the cave until you reach a room with two branches, then climb up the branch and jump to the other branch on the left.</li>"
+            },
+            "80030D40": {
+                "name": "Ash of War: Dryleaf Whirlwind",
+                "type": "chest",
+                "hint": "<li>Found on the edge, besides a column and near a waterfall.&nbsp;</li>"
+            },
+            "401E9038": {
+                "name": "Bondstone",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh: Look behind you and attack this illusory wall. Go inside and pick up the Bondstone and Antiquity Scholar's Cookbook (2).</li>"
+            },
+            "4021A160": {
+                "name": "Spider Scorpion Ashes",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh: In the area where the spider-scorpion hangs from a ceiling and there are a bunch of items on the ground. One of them is this.</li>"
+            },
+            "401EA2B2": {
+                "name": "Divine Beast Tornado",
+                "type": "boss",
+                "hint": "<li>The&nbsp;Divine Beast Dancing Lion&nbsp;of the North East from the Temple Town Ruins Site of Grace&nbsp;drops this&nbsp;Incantation upon defeat.&nbsp;</li>"
+            },
+            "401EA2BC": {
+                "name": "Divine Bird Feathers",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh. Can be found the corpse in the middle of the lake. Go past the gazebo and look at the corpse in the middle of the water. Go towards it and then pick up the Divine Bird Feathers.&nbsp;</li>"
+            },
+            "401EA302": {
+                "name": "Rain of Fire",
+                "type": "boss",
+                "hint": "<li>From the West Rampart Site of Grace, take the bridge all the way. Use Torrent to avoid being trapped in the Rain of Fire. Defeat the Fire Knight at the end to obtain this and Salza's Hood.</li>"
+            },
+            "401EA0AA": {
+                "name": "Pest-Thread Spears",
+                "type": "chest",
+                "hint": "<li>From the Church of the Bud, Main Enterance grace, go North back into the cave and down the stairs, then take a right or left (it doesn't matter) and head behind the stairs, the incantation will be directly behind, guarded by one enemy..</li>"
+            },
+            "401EAF8C": {
+                "name": "Crimson-Sapping Cracked Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located in the west section of Rauh Ancient Ruins.&nbsp;</li>"
+            },
+            "401EA61B": {
+                "name": "Map: Rauh Ruins",
+                "type": "chest",
+                "hint": "<li>The Map: Rauh Ruins map fragment can be looted by the foot of a monolith. To reach this location, make your way into the Scadu Atlus region. Starting from the Moorth Ruins Site of Grace located in Scadu Atlus, head northeast towards the hidden cave and follow the tunnel leading to the Ancient Ruins Base. Next, follow the canyon along and you'll find it just outside the Temple Town Ruins.</li>"
+            },
+            "401EA8E2": {
+                "name": "Greater Potentate's Cookbook [9]",
+                "type": "chest",
+                "hint": "<li>After getting past the scarlet rot swamp area, head outside and you'll find this item on a corpse near the wall.</li>"
+            },
+            "401EA8F8": {
+                "name": "Antiquity Scholar's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Ancient Ruins of Rauh, Look behind you and attack this illusory wall. Go inside and pick up the Bondstone and Antiquity Scholar's Cookbook (2).</li>"
+            }
+        },
+        "Rauh Base": {
+            "80062638": {
+                "name": "Ash of War: Scattershot Throw",
+                "type": "scarab",
+                "hint": "<li>Can&nbsp;be found by killing a scarab. Just south of&nbsp;Taylew's Ruined Forge&nbsp;entrance, near a bridge. It's hanging high on a pillar with some mobs underneath it.</li>"
+            },
+            "00FC8870": {
+                "name": "Bloodfiend's Sacred Spear",
+                "type": "boss",
+                "hint": "<li>The Bloodfiend west of Taylew's Ruined Forge drops this when killed.&nbsp;</li>"
+            },
+            "104F3170": {
+                "name": "Leather Headband",
+                "type": "chest",
+                "hint": "<li>To the northwest of the Ravine North Site of Grace, there is a forest inhabited by runebears. You can find the full set in a corpse hanging from a short cliff before the boss fight with Rugalea</li>"
+            },
+            "104F31D4": {
+                "name": "Gloried Attire",
+                "type": "chest",
+                "hint": "<li>To the northwest of the Ravine North Site of Grace, there is a forest inhabited by runebears. At the center of this forest, you'll find a large stone with several items on it, this whole armor set is slightly south-west of the large stone, on a corpse by a ledge.&nbsp;</li>"
+            },
+            "104F3238": {
+                "name": "Leather Arm Wraps",
+                "type": "chest",
+                "hint": "<li>To the northwest of the Ravine North Site of Grace, there is a forest inhabited by runebears. You can find the full set in a corpse hanging from a short cliff before the boss fight with Rugalea</li>"
+            },
+            "104F329C": {
+                "name": "Leather Leg Wraps",
+                "type": "chest",
+                "hint": "<li>From the Ravine North Site of Grace, head northwest to the orange forest past the river. Head up the upper plain by using the toppled pillar and jump on top of it. Head west until you reach the edge of the plain to find the armor piece near the ledge.</li>"
+            },
+            "104FCE14": {
+                "name": "Gravebird's Blackquill Armor",
+                "type": "chest",
+                "hint": "<li>From the Temple Town Ruins site of grace head north, past the Red Pests servants of rot, and stick to the left. The path will start to head upwards and you will find several Gravebirds. Continue upwards and you will eventually reach an area where there are gravebird statues at the side, in the middle, against the wall, you will find the armor.&nbsp;</li>"
+            },
+            "20001F9A": {
+                "name": "Pearl Shield Talisman",
+                "type": "chest",
+                "hint": "<li>Found inside a chest in a small camp of Messmer soldiers in the woods. Southwestern of Taylew's Ruined Forge Site of Grace.&nbsp;</li>"
+            },
+            "8007B4A8": {
+                "name": "Ash of War: The Poison Flower Blooms Twice",
+                "type": "scarab",
+                "hint": "<li>Dropped by a Teardrop Scarab. From Ravine North Site of Grace in Rauh Base, head south to cross river and find it near a small pool of rot near some ruins.&nbsp;&nbsp;</li>"
+            },
+            "4021C488": {
+                "name": "Divine Bird Warrior Ornis",
+                "type": "chest",
+                "hint": "<li>Temple Town Ruins Site of Grace: Head north past the purple stones and Kindreds of Rot. Go Uphill and activate the spiritspring and use it to jump on ruins above.&nbsp;</li>"
+            },
+            "401E9E84": {
+                "name": "Aspects of the Crucible: Bloom",
+                "type": "chest",
+                "hint": "<li>Can be found on a corpse near the Giant Miranda Sprout near the Ravine North Site of Grace</li>"
+            },
+            "401E9F10": {
+                "name": "Roar of Rugalea",
+                "type": "boss",
+                "hint": "<li>Dropped by&nbsp; Rugalea the Great Red Bear, located northwest of the Ravine North Site of Grace, in the wooded area where there are many large bears of Rauh Base.&nbsp;</li>"
+            },
+            "401EA8E6": {
+                "name": "Greater Potentate's Cookbook [8]",
+                "type": "chest",
+                "hint": "<li>Looted from a corpse atop a dung pile on the western section of northern Rauh Base, past the bear boss fight.</li>"
+            },
+            "401EA8FD": {
+                "name": "Antiquity Scholar's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>North of the temple town ruins site of grace, past the red servants of rot, there is a cave, inside it you will find a Shadowpothead enemy. Beware of the poison traps littered around. Drops x3&nbsp;Fire Spritestone, and&nbsp;Antiquity Scholar's Cookbook [1].&nbsp;</li>"
+            }
+        },
+        "Scorpion River Catacombs": {
+            "10515450": {
+                "name": "Imp Head (Lion)",
+                "type": "chest",
+                "hint": "<li>Scorpion River Catacombs. When you enter the area with two spiked ceilings and a run across a bridge under the gaze of a deadly basilisk. Cross the bridge towards the next lift, and stop at the end, then jump on the ledge to the left and follow it up towards the basilisk. Jump on the spiked ceiling as it drops and ride it up to a platform with this item.</li>"
+            },
+            "00EC82E0": {
+                "name": "Death Knight's Longhaft Axe",
+                "type": "boss",
+                "hint": "<li>The weapon is obtained as a reward for defeating the Death Knight boss located at the Scorpion River Catacombs.&nbsp;&nbsp;</li>"
+            },
+            "4021B4E8": {
+                "name": "Black Knight Captain Huw",
+                "type": "chest",
+                "hint": "<li>Scorpion River Catacombs: Found at the end of the L-shaped corridor with crushing spike traps.&nbsp; Past the first ceiling with the falling spikes, reach the Yellow Fulgurbloom and turn right, you will see x2 Messmer Soldiers and a Black Knight. Between both of you, there is another ceiling with spikes, be mindful when engaging in combat. Once those enemies are defeated, head to the coffin at the end to find the Spirit Ashes.&nbsp;</li>"
+            },
+            "401E9F74": {
+                "name": "Knight's Lightning Spear",
+                "type": "chest",
+                "hint": "<li>Scorpion River Catacombs: In the big hall with the second set of eyes that inflict deathblight upon you (the one after a ladder), at the end of the bridge, there is a ledge on the right side which lets you cross to the other side. Run across the ledge while hugging the wall and then go inside the opening behind the set of eyes. You can find the incantation in the room directly in front of you.&nbsp;</li>"
+            },
+            "401EA8F0": {
+                "name": "Ancient Dragon Knight's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Dragonbolt Grease</li>"
+            },
+            "00DDDCE0": {
+                "name": "Forked-Tongue Hatchet",
+                "type": "foe",
+                "hint": "<li>Dropped by Imps in catacombs (you can farm it in Scorpion River Catacombs)</li>"
+            },
+            "0035B600": {
+                "name": "Lizard Greatsword",
+                "type": "foe",
+                "hint": "<li>Dropped by the imps in the Scorpion River Catacombs.&nbsp;</li>"
+            }
+        },
+        "Taylew's Ruined Forge": {
+            "00BEBC20": {
+                "name": "Smithscript Greathammer",
+                "type": "chest",
+                "hint": "<li>Taylew's Ruined Forge:&nbsp;Use the giant platform in the middle to jump to the other side. Once there, keep moving forward and on the left side there will be a fire blob enemy protecting the item. Defeat the enemy and loot the corpse behind it to obtain the weapon.&nbsp;</li>"
+            },
+            "00DD40A0": {
+                "name": "Smithscript Axe",
+                "type": "chest",
+                "hint": "<li>Taylew's Ruined Forge:&nbsp;From the initial site of grace, continue following the path, get past the enemy, and take the ladder down then jump across the other platforms and turn left. You will find a Golem there. Behind it, at the back of the room, you will find the Smithscript Axe.</li>"
+            },
+            "0148ACA0": {
+                "name": "Golem Fist",
+                "type": "foe",
+                "hint": "<li>Looted from certain Golems in&nbsp;Taylew's Ruined Forge.</li>"
+            },
+            "01D18BB0": {
+                "name": "Smithscript Shield",
+                "type": "chest",
+                "hint": "<li>Can be found in: Taylew's Ruined Forge (north of Ancient Ruins Base), on a corpse inside the forge.&nbsp;Jump from the opening left to the Lever, and instead of heading forward turn left. There are two Smithing Golems there, one that uses fire. Once defeated, stick to the right and go up to the upper platform using the crumbled column. You will find the item at the end of the hallway. Beware of the fire blob that falls from the ceiling.&nbsp;</li>"
+            },
+            "4021C0A0": {
+                "name": "Taylew the Golem Smith",
+                "type": "chest",
+                "hint": "<li>Taylew's Ruined Forge: Return to the platform in the middle that you have moved with the lever, and head up. Jump to the left once you are near the top. Take the stairs up in the area, and interact with the furnace to receive the Spirit Ashes along with an Ancient Dragon Smithing Stone.</li>"
+            }
+        },
+        "Temple Town Ruins": {
+            "20001F68": {
+                "name": "Two-Handed Sword Talisman",
+                "type": "chest",
+                "hint": "<li>Temple Town Ruins: Found inside the highest structure. After the fight with the Horned Warrior, just continue up the stairs into the next room to find a chest with this item inside.&nbsp;</li>"
+            }
+        }
+    },
+    "Southern Shore": {
+        "Cerulean Coast": {
+            "007270E0": {
+                "name": "Spirit Sword",
+                "type": "chest",
+                "hint": "<li>You can find this weapon in Cerulean Coast. There's this kind of triangle-shaped lower area between Cerulean Coast West and Cerulean Coast Site of Grace. It's on the right-hand corner in that lower area, with a couple demi-humans.</li>"
+            },
+            "104D83C0": {
+                "name": "Dancer's Hood",
+                "type": "boss",
+                "hint": "<li>Dropped by defeating&nbsp;Dancer of Ranah&nbsp;at the&nbsp;Southern Nameless Mausoleum</li>"
+            },
+            "104D8424": {
+                "name": "Dancer's Dress",
+                "type": "boss",
+                "hint": "<li>Dropped by defeating&nbsp;Dancer of Ranah&nbsp;at the&nbsp;Southern Nameless Mausoleum</li>"
+            },
+            "104D8488": {
+                "name": "Dancer's Bracer",
+                "type": "boss",
+                "hint": "<li>Dropped by defeating&nbsp;Dancer of Ranah&nbsp;at the&nbsp;Southern Nameless Mausoleum</li>"
+            },
+            "104D84EC": {
+                "name": "Dancer's Trousers",
+                "type": "boss",
+                "hint": "<li>Dropped by defeating&nbsp;Dancer of Ranah&nbsp;at the&nbsp;Southern Nameless Mausoleum</li>"
+            },
+            "401E90C4": {
+                "name": "Perfumed Oil of Ranah",
+                "type": "chest",
+                "hint": "<li>Notes &amp; Tips go here</li>"
+            },
+            "401EA61A": {
+                "name": "Map: Southern Shore",
+                "type": "chest",
+                "hint": "<li>South of the Cerulean Coast Site of Grace past the ghost flame dragon, at a bend in the road.&nbsp;</li>"
+            },
+            "401EA8EE": {
+                "name": "St. Trina Disciple's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Cerulean Coast:&nbsp;From the Cerulean Coast Cross site of grace, head north to a hill with a large wilted tree being guarded by a Cemetery Shade. There will be a sitting corpse under the tree, which holds the Cookbook.&nbsp;</li>"
+            },
+            "401EA901": {
+                "name": "St. Trina Disciple's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Eternal Sleep Grease</li>"
+            },
+            "401EA900": {
+                "name": "Grave Keeper's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>From cerulean coast west, head south east until you reach a small grave with a tree. There should be a tree on your map not that far from the grace.&nbsp;</li>"
+            }
+        },
+        "Charo's Hidden Grave": {
+            "40219990": {
+                "name": "Gravebird Ashes",
+                "type": "chest",
+                "hint": "<li>CHARO'S HIDDEN GRAVE:&nbsp;Use the spiritspring to reach the area, you'll find this item surrounded by gravestones.</li>"
+            },
+            "80067070": {
+                "name": "Ash of War: Ghostflame Call",
+                "type": "boss",
+                "hint": "<li>Dropped by the Death Rite Bird.</li>"
+            },
+            "002673C0": {
+                "name": "Star-Lined Sword",
+                "type": "boss",
+                "hint": "<li>Dropped by Demi-Human Queen Marigga, who&nbsp;can be found at Charo's Hidden Grave&nbsp;(use the Cerulean Coast Site of Grace to ride there)..&nbsp;</li>"
+            },
+            "011A49A0": {
+                "name": "Spirit Glaive",
+                "type": "chest",
+                "hint": "<li>Start at the Charo's Hidden Grave&nbsp;site of grace and walk through the arch to the northwest, turn right directly after and take the path that ramps up north, follow it to where it meets the edge of the Gravesite Plains and it will be on a grave.&nbsp;</li>"
+            },
+            "401E9808": {
+                "name": "Rings of Spectral Light",
+                "type": "chest",
+                "hint": "<li>Looted from the altar by the giant bird statue after defeating several birds in Charo's Hidden Grave</li>"
+            },
+            "401EAFB4": {
+                "name": "Glovewort Crystal Tear",
+                "type": "boss",
+                "hint": "<li>The item drops from the Furnace Golem located around Charo's Hidden Grave.&nbsp;</li>"
+            },
+            "401EA8E9": {
+                "name": "Greater Potentate's Cookbook [14]",
+                "type": "chest",
+                "hint": "<li>Going through the north-west path from the Charo's Hidden Grave&nbsp;grace, hug the water to the left until you stumble upon a corpse holding the cookbook, guarded by a large poison Miranda Flower and several smaller Miranda Flowers.&nbsp;</li>"
+            },
+            "401EA8F7": {
+                "name": "Grave Keeper's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Located shortly after entering Charo's Hidden Grave. It's by a pile of rocks and turtles when you first reach the water.</li>"
+            },
+            "401EA8F9": {
+                "name": "Tibia's Cookbook",
+                "type": "boss",
+                "hint": "<li>Call of Tibia</li>"
+            }
+        },
+        "Finger-Weaver's Hovel": {
+            "401EA8FE": {
+                "name": "Finger-Weaver's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Glinting Nail</li>"
+            }
+        },
+        "Lamenter's Gaol": {
+            "0175FE30": {
+                "name": "Lamenting Visage",
+                "type": "chest",
+                "hint": "<li>Inside a room on the lower level of the Lamenter's Gaol, hidden behind an illusory wall. In the area you fall through the floor, go up the stairs and into the the first doorway. Roll into the end of the passageway, and use the Gaol Lower Level Key&nbsp;to open the door.</li>"
+            },
+            "03AA9170": {
+                "name": "Chilling Perfume Bottle",
+                "type": "chest",
+                "hint": "<li>Lamenter's Gaol, after using the Upper Gaol key on the door, descending the ladder, and walking into the room with the frozen floor, some Jar Innards will come out of a door to your right. The Chilling Perfume Bottle is in that room.&nbsp;</li>"
+            },
+            "20001B94": {
+                "name": "Clarifying Horn Charm +2",
+                "type": "chest",
+                "hint": "<li>+2 variant: Lamenter's Gaol: After dropping down the small cave infested with rats, continue following the path and go straight. You'll find this talisman on a corpse on the right side once you enter the area.</li>"
+            },
+            "401E8C6E": {
+                "name": "Lamenter's Mask",
+                "type": "boss",
+                "hint": "<li>&nbsp;Dropped by Lamenter at Lamenter's Gaol.</li>"
+            },
+            "401E8CE6": {
+                "name": "Prattling Pate Lamentation",
+                "type": "chest",
+                "hint": "<li>Lamenter's Gaol:&nbsp;Lamenter's Gaol. Climb up the long ladder, cross the connecting stone bridge, and enter the room on the left, you'll find this key item on a corpse.</li>"
+            }
+        },
+        "Southern Nameless Mausoleum": {
+            "0072BF00": {
+                "name": "Dancing Blade of Ranah",
+                "type": "boss",
+                "hint": "<li>Dropped by defeating Dancer of Ranah at the Southern Nameless Mausoleum</li>"
+            }
+        },
+        "Stone Coffin Fissure": {
+            "00264CB0": {
+                "name": "Velvet Sword of St. Trina",
+                "type": "chest",
+                "hint": "<li>Stone Coffin Fissure:&nbsp;From the Fissure Cross site of grace, walk immediately north-west to the closest giant coffin that's tilted nearly vertical. Climb down to a ledge that passes underneath the brick platform nearest the site of grace. The sword is in a small cave network there and guarded by several putrescent oozes.&nbsp;</li>"
+            },
+            "401E9CC2": {
+                "name": "Mass of Putrescence",
+                "type": "chest",
+                "hint": "<li>Stone Coffin Fissure&nbsp;-&nbsp;From the Fissure Waypoint site of grace, head northeast. Just after hopping over the little gap, drop down on the left (north) side and make your way north where you'll find the spell on a corpse.</li>"
+            },
+            "401E9EB6": {
+                "name": "Multilayered Ring of Light",
+                "type": "boss",
+                "hint": "<li>Rewarded on defeating the spirit Misbegotten Crusader in the Stone Coffin Fissure.&nbsp;</li>"
+            },
+            "401EA8F6": {
+                "name": "St. Trina Disciple's Cookbook [3]",
+                "type": "chest",
+                "hint": "<li>Found in the Garden of Deep Purple after defeating the Putrescent Knight. The cookbook is inside the small cave nearby.&nbsp;</li>"
+            }
+        }
+    },
+    "Jagged Peak": {
+        "Foot of the Jagged Peak": {
+            "401EA8F3": {
+                "name": "Igon's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Can be found on a corpse in the broken tower just before the Grand Altar of Dragon Communion.&nbsp;</li>"
+            },
+            "401EA8EA": {
+                "name": "Greater Potentate's Cookbook [6]",
+                "type": "chest",
+                "hint": "<li>Found on a cliff edge corpse north of the spiritspring used to launch up towards the Foot of the Jagged Peak grace.&nbsp;</li>"
+            }
+        },
+        "Grand Altar of Dragon Communion": {
+            "00AF79E0": {
+                "name": "Flowerstone Gavel",
+                "type": "chest",
+                "hint": "<li>The Dragon Communion Priestess drops this item at the Grand Altar of Dragon Communion after defeating Bayle The Dread.&nbsp;</li>"
+            },
+            "401E9FD8": {
+                "name": "Bayle's Tyranny",
+                "type": "merchant",
+                "hint": "<li> Heart of Bayle can be used to at the Grand Altar of Dragon Communion to trade for Bayle's Flame Lightning or Bayle's Tyranny.</li>"
+            },
+            "401E9FE2": {
+                "name": "Bayle's Flame Lightning",
+                "type": "merchant",
+                "hint": "<li>Heart of Bayle can be used to at the Grand Altar of Dragon Communion to trade for Bayle's Flame Lightning or Bayle's Tyranny. </li>"
+            },
+            "401E9FEC": {
+                "name": "Ghostflame Breath",
+                "type": "merchant",
+                "hint": "<li>3x Dragon Heart&nbsp;can be used to&nbsp;at the&nbsp;Grand Altar of Dragon Communion&nbsp;to trade for this spell.&nbsp;</li>"
+            }
+        },
+        "Jagged Peak": {
+            "401E8C5A": {
+                "name": "Rock Heart",
+                "type": "chest",
+                "hint": "<li>A special item obtained from completing the Domain of Dragons Painting puzzle. Allows players to transform into an Ancient Dragon.&nbsp;</li>"
+            },
+            "401EA8DB": {
+                "name": "Igon's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Can be found at the edge of a cliff near the Jagged Peak Mountainside site of grace.</li>"
+            }
+        }
+    },
+    "Abyssal Woods": {
+        "Abandoned Church": {
+            "03AAB880": {
+                "name": "Frenzyflame Perfume Bottle",
+                "type": "chest",
+                "hint": "<li>Looted from a dead body located at the northern interior of the&nbsp;Abandoned Church in Abyssal Woods&nbsp;</li>"
+            }
+        },
+        "Abyssal Woods": {
+            "01488590": {
+                "name": "Madding Hand",
+                "type": "chest",
+                "hint": "<li>South of Woodland Trail site of grace in the Abyssal Woods. Drop by Madding Hand enemy.&nbsp;</li>"
+            },
+            "20001F7C": {
+                "name": "Aged One's Exultation",
+                "type": "boss",
+                "hint": "<li>Abyssal Woods: Dropped by the Aging Untouchable found nearest to the Abandoned Church. After&nbsp;the enemy's grab attack is parried, the Aging Untouchable enters a vulnerable state in which it can be damaged.</li>"
+            },
+            "401EA61C": {
+                "name": "Map: Abyss",
+                "type": "chest",
+                "hint": "<li>Map of the Abbys at the east of the Gravesite Plain. Found besides a column.</li>"
+            },
+            "401EA8ED": {
+                "name": "Mad Craftsman's Cookbook [1]",
+                "type": "chest",
+                "hint": "<li>Frenzied Flame Pot</li>"
+            },
+            "401EA8E5": {
+                "name": "Mad Craftsman's Cookbook [2]",
+                "type": "chest",
+                "hint": "<li>Hefty Frenzied Flame Pot</li>"
+            }
+        },
+        "Midra's Manse": {
+            "0175D720": {
+                "name": "Nanaya's Torch",
+                "type": "chest",
+                "hint": "<li>Looted from a balcony in Midra's Manse&nbsp;in the Abyssal Woods.&nbsp;</li>"
+            },
+            "401EA8FA": {
+                "name": "Mad Craftsman's Cookbook [3]",
+                "type": "chest",
+                "hint": "<li>Found in Midra's Manse, just before the second site of grace. Walk across the rafters and jump into a room filled with frenzy rats. The cookbook is found on a body in that room.&nbsp;</li>"
+            }
+        }
+    },
+    "Scaduview": {
+        "Albinauric's Shack": {
+            "20001FD6": {
+                "name": "Sharpshot Talisman",
+                "type": "chest",
+                "hint": "<li>Found inside Albinauric's Shack&nbsp;in Scaduview.&nbsp;</li>"
+            }
+        },
+        "Finger Ruins of Dheo": {
+            "4021D428": {
+                "name": "Fingercreeper Ashes",
+                "type": "chest",
+                "hint": "<li>Finger Ruins of Dheo:&nbsp;From&nbsp;Fingerstone Hill Site of Grace, head southeast until coming across a large grass plateau on the left. Head east until you find a large&nbsp;group of Lesser Fingercreepers&nbsp;and drop down inside the hole located in the middle of the group.&nbsp;A Colossal Fingercreeper will immediately emerge and block your way. The Ashes can be looted from the corpse in the middle of the arena.</li>"
+            },
+            "401EA7AA": {
+                "name": "The Two Fingers",
+                "type": "chest",
+                "hint": "<li>This NPC does not move</li>"
+            }
+        },
+        "Scaduview": {
+            "401E96E6": {
+                "name": "Gravitational Missile",
+                "type": "boss",
+                "hint": "<li>Dropped by the Fallingstar Beast, who can be found in the crater in Fingerstone Hill.</li>"
+            }
+        },
+        "Shaman Village": {
+            "20001BD0": {
+                "name": "Golden Braid",
+                "type": "chest",
+                "hint": "<li>Shaman Village,&nbsp;Scaduview:&nbsp;The talisman is looted in front of a statue of Marika, found inside the trunk of a large dead tree (the only dead tree there) in the Shaman Village of the Scaduview region. Closest graces are Hinterland and Hinterland Bridge.</li>"
+            },
+            "401E9E8E": {
+                "name": "Minor Erdtree",
+                "type": "chest",
+                "hint": "<li>Located at the Shaman Village in the Scaduview region. The spell can be found in the field of flowers.</li>"
+            }
+        }
+    },
+    "Other": {
+        "Remembrances": {
+            "10504344": {
+                "name": "Rellana's Armor",
+                "type": "merchant",
+                "hint": "<li>The complete set (Rellana's Set) can be bought from Enia in the Roundtable Hold upon defeating Rellana Twin Moon Knight.</li>"
+            },
+            "80065900": {
+                "name": "Ash of War: Divine Beast Frost Stomp",
+                "type": "merchant",
+                "hint": "<li>Obtained by trading Remembrance of the Dancing Lion&nbsp;with&nbsp;Enia&nbsp;at&nbsp;Roundtable Hold.       The other reward available when offering Remembrance of the Dancing Lion&nbsp;is a Talisman called Enraged Divine Beast.    </li>"
+            },
+            "003567E0": {
+                "name": "Sword Lance",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading&nbsp;Remembrance of the Wild Boar Rider&nbsp;with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is a sorcery, Blades of Stone.    </li>"
+            },
+            "00358EF0": {
+                "name": "Greatsword of Damnation",
+                "type": "merchant",
+                "hint": "<li>Midra, Lord Of Frenzied Flame's Remembrance at Midra's Manse</li>"
+            },
+            "00451F50": {
+                "name": "Greatsword of Radahn (Lord)",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of a God and a Lord with Enia at Roundtable Hold.</li>"
+            },
+            "00456D70": {
+                "name": "Greatsword of Radahn (Light)",
+                "type": "merchant",
+                "hint": "<li>Trade&nbsp;Remembrance of a God and a Lord&nbsp;with Enia at Roundtable Hold.</li>"
+            },
+            "0081B320": {
+                "name": "Putrescence Cleaver",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of Putrescence&nbsp;with Enia at the Roundtable Hold to receive this item.</li>"
+            },
+            "010B0760": {
+                "name": "Spear of the Impaler",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of the Impaler&nbsp;at Enia&nbsp;to receive this weapon.</li>"
+            },
+            "011A70B0": {
+                "name": "Poleblade of the Bud",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of the Saint of the Bud&nbsp;with Enia to be able to receive this weapon. The remembrance is dropped by&nbsp;Romina, Saint of the Bud&nbsp;at the Church of the Bud.&nbsp;</li>"
+            },
+            "0166BBF0": {
+                "name": "Shadow Sunflower Blossom",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of the Shadow Sunflower&nbsp;at&nbsp;Enia&nbsp;to receive this weapon.</li>"
+            },
+            "0166E300": {
+                "name": "Gazing Finger",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of the Mother of Fingers at&nbsp;Enia&nbsp;to receive this weapon.</li>"
+            },
+            "01FF5270": {
+                "name": "Staff of the Great Beyond",
+                "type": "merchant",
+                "hint": "<li>Exchange Remembrance of the Mother of Fingers with Finger Reader Enia in Roundtable Hold.</li>"
+            },
+            "04064600": {
+                "name": "Rellana's Twin Blades",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of the Twin Moon Knight with Enia at the Roundtable Hold, to receive this weapon.</li>"
+            },
+            "102DEDD0": {
+                "name": "Gaius's Helm",
+                "type": "merchant",
+                "hint": "<li>Purchased from the Enia at the Roundtable Hold&nbsp;after defeating&nbsp;Commander Gaius.&nbsp;</li>"
+            },
+            "102DEE34": {
+                "name": "Gaius's Armor",
+                "type": "merchant",
+                "hint": "<li>Purchased from the Enia at the Roundtable Hold&nbsp;after defeating&nbsp;Commander Gaius.&nbsp;</li>"
+            },
+            "102DEE98": {
+                "name": "Gaius's Gauntlets",
+                "type": "merchant",
+                "hint": "<li>Purchased from the Enia at the Roundtable Hold&nbsp;after defeating&nbsp;Commander Gaius.&nbsp;</li>"
+            },
+            "102DEEFC": {
+                "name": "Gaius's Greaves",
+                "type": "merchant",
+                "hint": "<li>Wolf Rider Enemy. Drops Gaius's Greaves. The rider grants +6381 Runes and the wolf +5490.&nbsp;</li>"
+            },
+            "104FA6A0": {
+                "name": "Messmer's Helm",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Messmer the Impaler</li>"
+            },
+            "104FA704": {
+                "name": "Messmer's Armor",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Messmer the Impaler</li>"
+            },
+            "104FA768": {
+                "name": "Messmer's Gauntlets",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Messmer the Impaler</li>"
+            },
+            "104FA7CC": {
+                "name": "Messmer's Greaves",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Messmer the Impaler</li>"
+            },
+            "105042E0": {
+                "name": "Rellana's Helm",
+                "type": "merchant",
+                "hint": "<li>The complete set (Rellana's Set)&nbsp;can be bought from&nbsp;Enia&nbsp;in the&nbsp;Roundtable Hold&nbsp;upon defeating&nbsp;Rellana Twin Moon Knight.</li>"
+            },
+            "105043A8": {
+                "name": "Rellana's Gloves",
+                "type": "merchant",
+                "hint": "<li>The complete set (Rellana's Set)&nbsp;can be bought from&nbsp;Enia&nbsp;in the&nbsp;Roundtable Hold&nbsp;upon defeating&nbsp;Rellana Twin Moon Knight.</li>"
+            },
+            "1050440C": {
+                "name": "Rellana's Greaves",
+                "type": "merchant",
+                "hint": "<li>The complete set (Rellana's Set)&nbsp;can be bought from&nbsp;Enia&nbsp;in the&nbsp;Roundtable Hold&nbsp;upon defeating&nbsp;Rellana Twin Moon Knight.</li>"
+            },
+            "105069F0": {
+                "name": "Young Lion's Helm",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after&nbsp;defeating&nbsp;Promised Consort Radahn&nbsp;/&nbsp;Radahn, Consort of Miquella&nbsp;in&nbsp;Enir-Ilim&nbsp;</li>"
+            },
+            "10506A54": {
+                "name": "Young Lion's Armor",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Promised Consort Radahn&nbsp;/&nbsp;Radahn, Consort of Miquella&nbsp;in&nbsp;Enir-Ilim&nbsp;</li>"
+            },
+            "10506AB8": {
+                "name": "Young Lion's Gauntlets",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Promised Consort Radahn&nbsp;/&nbsp;Radahn, Consort of Miquella&nbsp;in&nbsp;Enir-Ilim&nbsp;</li>"
+            },
+            "10506B1C": {
+                "name": "Young Lion's Greaves",
+                "type": "merchant",
+                "hint": "<li>Purchase from Finger Reader Enia at Roundtable Hold after defeating&nbsp;Promised Consort Radahn&nbsp;/&nbsp;Radahn, Consort of Miquella&nbsp;in&nbsp;Enir-Ilim&nbsp;</li>"
+            },
+            "20001FF4": {
+                "name": "Enraged Divine Beast",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Dancing Lion with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is Ash of War: Divine Beast Frost Stomp.    </li>"
+            },
+            "80061A80": {
+                "name": "Ash of War: Spinning Gravity Thrust",
+                "type": "merchant",
+                "hint": "<li>Comes equipped to the Sword Lance, one of the possible rewards when trading Remembrance of the Wild Boar Rider with Enia at the Roundtable Hold.</li>"
+            },
+            "401E9560": {
+                "name": "Rellana's Twin Moons",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Twin Moon Knight&nbsp;with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is a weapon, Rellana's Twinblade.    </li>"
+            },
+            "401E96DC": {
+                "name": "Blades of Stone",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Wild Boar Rider with Enia at the Roundtable Hold. </li>"
+            },
+            "401E9CB8": {
+                "name": "Vortex of Putrescence",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of Putrescence&nbsp;with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is a weapon, Putrescence Cleaver    </li>"
+            },
+            "401E9E98": {
+                "name": "Land of Shadow",
+                "type": "merchant",
+                "hint": "<li>Land of Shadow Map &amp; Fragments</li>"
+            },
+            "401E9EAC": {
+                "name": "Light of Miquella",
+                "type": "merchant",
+                "hint": "<li>Trade Remembrance of a God and a Lord with Enia at Roundtable Hold.</li>"
+            },
+            "401EA30C": {
+                "name": "Messmer's Orb",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Impaler&nbsp;with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is a weapon, Spear of the Impaler.    </li>"
+            },
+            "401EA0A0": {
+                "name": "Rotten Butterflies",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Saint of the Bud&nbsp;with&nbsp;Enia&nbsp;at the&nbsp;Roundtable Hold.&nbsp;       The other available reward is a weapon, Poleblade of the Bud.    </li>"
+            },
+            "401EA104": {
+                "name": "Midra's Flame of Frenzy",
+                "type": "merchant",
+                "hint": "<li>Can be selected as one of the possible rewards when trading Remembrance of the Lord of Frenzied Flame with Enia at the Roundtable Hold.</li>"
+            }
+        },
+        "Quests": {
+            "80064190": {
+                "name": "Ash of War: Swift Slash",
+                "type": "quest",
+                "hint": "<li>Reward for siding with Hornsent during his fight with Leda at Shadowkeep.</li>"
+            },
+            "007297F0": {
+                "name": "Falx",
+                "type": "quest",
+                "hint": "<li>Dropped by Hornsent when invaded close to the Rauh Ancient Ruins site of grace.,</li>"
+            },
+            "0081DA30": {
+                "name": "Freyja's Greatsword",
+                "type": "quest",
+                "hint": "<li>Can be obtained at the location that Freyja was inspecting the tablets, right in front of the Storehouse, Seventh Floor site of grace in the Specimen Storehouse.  Freyja's armour can also be found in this location. The trigger for Freyja to disappear and cause the item to appear in this location is currently unknown.  Can be looted from Freyja's body after defeating her in Enir-Ilim. </li>"
+            },
+            "0090F560": {
+                "name": "Sword of Night",
+                "type": "quest",
+                "hint": "<li>Cathedral of Manus Metyr: After completing the whole finger questline for Count Ymir, Jolan will be dejected nearby. Give her&nbsp;an Iris of Occultation&nbsp;to get the Sword of Night&nbsp;</li>"
+            },
+            "01298BE0": {
+                "name": "Obsidian Lamina",
+                "type": "quest",
+                "hint": "<li>Complete the entirety of Sir Ansbach's questline&nbsp;by assisting him. This weapon will be available at the end of his questline after the Final Boss where he will be by the entrance to the arena after the fight.&nbsp;</li>"
+            },
+            "01481060": {
+                "name": "Thiollier's Hidden Needle",
+                "type": "quest",
+                "hint": "<li>Finish the St. Trina and Thiollier quests and loot it after defeating the final boss.&nbsp;</li>"
+            },
+            "01E11C10": {
+                "name": "Golden Lion Shield",
+                "type": "quest",
+                "hint": "<li>Shadow Keep: Given by Redmane Freyja after you hand her over the Letter for Freyja, received from Sir Anbsach.</li>"
+            },
+            "01F03740": {
+                "name": "Verdigris Greatshield",
+                "type": "quest",
+                "hint": "<li>Rewarded upon killing the NPC invader Moore, who appears north of the Church of the Crusade in Scadu Altus in the Realm of Shadow.&nbsp;&nbsp;</li>"
+            },
+            "01FF7980": {
+                "name": "Maternal Staff",
+                "type": "quest",
+                "hint": "<li>Cathedral of Manus Metyr: Dropped by Count Ymir, Mother of Fingers.&nbsp;</li>"
+            },
+            "02796470": {
+                "name": "Ansbach's Longbow",
+                "type": "quest",
+                "hint": "<li>Assist or Kill&nbsp;Sir Ansbach&nbsp;during his questline in Shadow Keep against the enemy invader.</li>"
+            },
+            "02887FA0": {
+                "name": "Igon's Greatbow",
+                "type": "quest",
+                "hint": "<li>Defeat Igon on the eastern side of Gravesite Plain</li>"
+            },
+            "039B2820": {
+                "name": "Dryleaf Arts",
+                "type": "quest",
+                "hint": "<li>This weapon is obtained as a drop upon defeating Dryleaf Dane.&nbsp;</li>"
+            },
+            "039B4F30": {
+                "name": "Dane's Footwork",
+                "type": "quest",
+                "hint": "<li>Enir-Ilim: Can be obtained by looting Dryleaf Dane's body after defeating him in Enir-Ilim.&nbsp;</li>"
+            },
+            "04061EF0": {
+                "name": "Leda's Sword",
+                "type": "quest",
+                "hint": "<li>Found on Needle Knight Leda's corpse&nbsp;in Enir-Ilim&nbsp;along with&nbsp;Leda's Armor&nbsp;after she and the rest of Miquella's followers are defeated.&nbsp;</li>"
+            },
+            "102DC6C0": {
+                "name": "Dane's Hat",
+                "type": "quest",
+                "hint": "<li>This&nbsp;Helm is obtained as a drop upon defeating&nbsp;Dryleaf Dane.</li>"
+            },
+            "102DC724": {
+                "name": "Dryleaf Robe",
+                "type": "quest",
+                "hint": "<li>Found under a waterfall in the lower portions under Bonny Village. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the mausoleum.</li>"
+            },
+            "102DC788": {
+                "name": "Dryleaf Arm Wraps",
+                "type": "quest",
+                "hint": "<li>Found under a waterfall in the lower portions under Bonny Village. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the area.</li>"
+            },
+            "102DC7EC": {
+                "name": "Dryleaf Cuissardes",
+                "type": "quest",
+                "hint": "<li>Found under a waterfall in the lower portions under Bonny Village. This area can only be accessed by using the ladder in Shadow Keep to get down to a special teleport coffin (this Elden Ring Map location). This will take you to Ruins of Unte and you must follow the cliffs downstream and then carefully drop down to bottom level to reach the area.</li>"
+            },
+            "104C4BA4": {
+                "name": "Leda's Armor",
+                "type": "quest",
+                "hint": "<li>Found on Needle Knight Leda's body after invading and defeating her and her allies in Enir-Ilim.&nbsp;</li>"
+            },
+            "104C7250": {
+                "name": "Verdigris Helm",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Moore's questline&nbsp;</li>"
+            },
+            "104C72B4": {
+                "name": "Verdigris Armor",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Moore's questline&nbsp;</li>"
+            },
+            "104C7318": {
+                "name": "Verdigris Gauntlets",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Moore's questline&nbsp;</li>"
+            },
+            "104C737C": {
+                "name": "Verdigris Greaves",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Moore's questline&nbsp;</li>"
+            },
+            "104CC070": {
+                "name": "Thiollier's Mask",
+                "type": "quest",
+                "hint": "<li>Summon Thiollier during the battle at the end of his questline, then loot his body in the boss arena after the fight.&nbsp;</li>"
+            },
+            "104CC0D4": {
+                "name": "Thiollier's Garb",
+                "type": "quest",
+                "hint": "<li>Complete his questline and defeat the final boss of the dlc,&nbsp;then loot his body in the boss arena after the fight.&nbsp;</li>"
+            },
+            "104CC138": {
+                "name": "Thiollier's Gloves",
+                "type": "quest",
+                "hint": "<li>Summon Thiollier during the battle at the end of his questline, then loot his body in the boss arena after the fight.&nbsp;</li>"
+            },
+            "104CC19C": {
+                "name": "Thiollier's Trousers",
+                "type": "quest",
+                "hint": "<li>Summon Thiollier during the battle at the end of his questline, then loot his body in the boss arena after the fight.&nbsp;</li>"
+            },
+            "104D35A0": {
+                "name": "High Priest Hat",
+                "type": "quest",
+                "hint": "<li>Dropped by&nbsp;Count Ymir, Mother of Fingers, who&nbsp;can be found in the Cathedral of Manus Metyr after interacting with the throne, you can only find Count Ymir there after you have defeated&nbsp;Metyr, Mother of Fingers.&nbsp;</li>"
+            },
+            "104D3604": {
+                "name": "High Priest Robe",
+                "type": "quest",
+                "hint": "<li>Dropped by&nbsp;Count Ymir, Mother of Fingers, who&nbsp;can be found in the Cathedral of Manus Metyr after interacting with the throne, you can only find Count Ymir there after you have defeated&nbsp;Metyr, Mother of Fingers.&nbsp;</li>"
+            },
+            "104D3668": {
+                "name": "High Priest Gloves",
+                "type": "quest",
+                "hint": "<li>Dropped by&nbsp;Count Ymir, Mother of Fingers, who&nbsp;can be found in the Cathedral of Manus Metyr after interacting with the throne, you can only find Count Ymir there after you have defeated&nbsp;Metyr, Mother of Fingers.&nbsp;</li>"
+            },
+            "104D36CC": {
+                "name": "High Priest Undergarments",
+                "type": "quest",
+                "hint": "<li>Dropped by&nbsp;Count Ymir, Mother of Fingers, who&nbsp;can be found in the Cathedral of Manus Metyr after interacting with the throne, you can only find Count Ymir there after you have defeated&nbsp;Metyr, Mother of Fingers.&nbsp;</li>"
+            },
+            "104D5CB0": {
+                "name": "Caterpillar Mask",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Hornsent&nbsp;quest.&nbsp;</li>"
+            },
+            "104D5D14": {
+                "name": "Braided Cord Robe",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Hornsent&nbsp;quest.&nbsp;</li>"
+            },
+            "104D5D78": {
+                "name": "Braided Arm Wraps",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Hornsent&nbsp;quest.&nbsp;</li>"
+            },
+            "104D5DDC": {
+                "name": "Soiled Loincloth",
+                "type": "quest",
+                "hint": "<li>Dropped by Hornsent when invaded close to the Rauh Ancient Ruins site of grace.</li>"
+            },
+            "104DD1E0": {
+                "name": "Igon's Helm",
+                "type": "quest",
+                "hint": "<li>Loot Igon after defeating Bayle the Dread&nbsp;</li>"
+            },
+            "104DD244": {
+                "name": "Igon's Armor",
+                "type": "quest",
+                "hint": "<li>Loot Igon after defeating Bayle the Dread&nbsp;</li>"
+            },
+            "104DD2A8": {
+                "name": "Igon's Gauntlets",
+                "type": "quest",
+                "hint": "<li>Loot Igon after defeating Bayle the Dread&nbsp;</li>"
+            },
+            "104DD30C": {
+                "name": "Igon's Loincloth",
+                "type": "quest",
+                "hint": "<li>Loot Igon after defeating Bayle the Dread&nbsp;</li>"
+            },
+            "104DF8F0": {
+                "name": "Wise Man's Mask",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Sir Ansbach's&nbsp;questline all the way through the end, and side with him when facing Leda, and then&nbsp;Promised Consort Radahn/&nbsp;Radahn, Consort of Miquella. After the fight is over, Sir Ansbach's body will be near the site of grace, alongside with his equipment and his&nbsp;Incantation.</li>"
+            },
+            "104DF954": {
+                "name": "Ansbach's Attire",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Sir Ansbach's&nbsp;questline all the way through the end, and side with him when facing Leda, and then&nbsp;Promised Consort Radahn/&nbsp;Radahn, Consort of Miquella. After the fight is over, Sir Ansbach's body will be near the site of grace, alongside with his equipment and his&nbsp;Incantation.&nbsp;</li>"
+            },
+            "104DF9B8": {
+                "name": "Ansbach's Manchettes",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Sir Ansbach's&nbsp;questline all the way through the end, and side with him when facing Leda, and then&nbsp;Promised Consort Radahn/&nbsp;Radahn, Consort of Miquella. After the fight is over, Sir Ansbach's body will be near the site of grace, alongside with his equipment and his&nbsp;Incantation.&nbsp;</li>"
+            },
+            "104DFA1C": {
+                "name": "Ansbach's Boots",
+                "type": "quest",
+                "hint": "<li>Complete&nbsp;Sir Ansbach's&nbsp;questline all the way through the end, and side with him when facing Leda, and then&nbsp;Promised Consort Radahn/&nbsp;Radahn, Consort of Miquella. After the fight is over, Sir Ansbach's body will be near the site of grace, alongside with his equipment and his&nbsp;Incantation.&nbsp;</li>"
+            },
+            "104E2000": {
+                "name": "Freyja's Helm",
+                "type": "quest",
+                "hint": "<li>Drop by&nbsp;Redmane Freyja.&nbsp;</li>"
+            },
+            "104E2064": {
+                "name": "Freyja's Armor",
+                "type": "quest",
+                "hint": "<li>Drop by&nbsp;Redmane Freyja.&nbsp;</li>"
+            },
+            "104E20C8": {
+                "name": "Freyja's Gauntlets",
+                "type": "quest",
+                "hint": "<li>Drop by&nbsp;Redmane Freyja.&nbsp;</li>"
+            },
+            "104E212C": {
+                "name": "Freyja's Greaves",
+                "type": "quest",
+                "hint": "<li>Drop by&nbsp;Redmane Freyja.&nbsp;</li>"
+            },
+            "1050DF20": {
+                "name": "St. Trina's Blossom",
+                "type": "quest",
+                "hint": "<li>Garden of Deep Purple: After completing Thiollier and St. Trina's questline, return to her cave in Garden of Deep Purple. You can pick up this item from her fallen body.</li>"
+            },
+            "20001BE4": {
+                "name": "Crimson Seed Talisman +1",
+                "type": "quest",
+                "hint": "<li>+1 Variant: In the centre of the Finger Ruins of Rhia. Go to the large ring of fingers (as shown by the Ruins Map given by Count Ymir), and then sound the hanging bell from one of the fingers that's pointing down. The Hole-Laden Necklace given by Ymir is required to sound it.</li>"
+            },
+            "20001BEE": {
+                "name": "Cerulean Seed Talisman +1",
+                "type": "quest",
+                "hint": "<li>+1 Variant: Sound the Hanging Bell in Finger Ruins of Dheo.</li>"
+            },
+            "20001FC2": {
+                "name": "Retaliatory Crossed-Tree",
+                "type": "quest",
+                "hint": "<li>You need to follow Leda's&nbsp;questline, and invade Ansbach. Then return to the grace where You talk to Leda and say your farewells. She will give you this talisman before her dialogue ends</li>"
+            },
+            "20001FCC": {
+                "name": "Lacerating Crossed-Tree",
+                "type": "quest",
+                "hint": "<li>You get it from aiding Needle Knight Leda&nbsp;in invading and defeating Hornsent after she chooses him as a target, you have to go back to the Highroad Cross site of grace and talk to her after doing so and she will give the talisman to you</li>"
+            },
+            "20001FE0": {
+                "name": "St. Trina's Smile",
+                "type": "quest",
+                "hint": "<li>Obtained as a drop upon defeating a hostile NPC, Thiollier.</li>"
+            },
+            "20001FFE": {
+                "name": "Beloved Stardust",
+                "type": "quest",
+                "hint": "<li>Given by Count Ymir after completing the first part of his quest line.&nbsp;</li>"
+            },
+            "80085CA0": {
+                "name": "Ash of War: Igon's Drake Hunt",
+                "type": "quest",
+                "hint": "<li>Can be found on Igon's Greatbow after killing Igon in eastern Gravesite Plain</li>"
+            },
+            "4021CC58": {
+                "name": "Ancient Dragon Florissax",
+                "type": "quest",
+                "hint": "<li>WARNING: DOING THIS WILL LOCK YOU OUT OF THE&nbsp;PRIESTESS HEART (The one that&nbsp;buffs dragon cult incantations, You can get a different dragon transformations stone called ''Rock Heart'' from another place that buffs dragon communion spells instead.)</li>"
+            },
+            "4021DBF8": {
+                "name": "Swordhand of Night Jolán",
+                "type": "quest",
+                "hint": "<li>For the NPC page of this spirit summon, please visit the Jolan&nbsp;page.</li>"
+            },
+            "4021DFE0": {
+                "name": "Jolán and Anna",
+                "type": "quest",
+                "hint": "<li>Jolán and Anna are accessed by interacting with the puppet body of Anna at the secret top part of Rabbath's Rise while in the possession of&nbsp;Swordhand of Night Jolán&nbsp;</li>"
+            },
+            "401EA17C": {
+                "name": "Cherishing Fingers",
+                "type": "quest",
+                "hint": "<li>It can be picked up in the graveyard to the west of the Chathedral of Manus Metyr after completing Count Ymir's questline in full.&nbsp;</li>"
+            },
+            "401E9F7E": {
+                "name": "Dragonbolt of Florissax",
+                "type": "quest",
+                "hint": "<li>1. Progress through Thiollier's Questline till you get Thiollier's Concoction. DO NOT USE IT ON YOURSELF or buy more from his shop.</li>"
+            },
+            "401EA230": {
+                "name": "Watchful Spirit",
+                "type": "quest",
+                "hint": "<li>Given by Hornsent Grandam&nbsp;after defeating the Divine Beast Dancing Lion. Talk to her twice with the Divine Beast Head&nbsp;equipped, to receive this incantation.</li>"
+            },
+            "401E9D1C": {
+                "name": "Furious Blade of Ansbach",
+                "type": "quest",
+                "hint": "<li>Complete Sir Ansbach's questline all the way through the end, and side with him when facing Leda, and then Promised Consort Radahn/ Radahn, Consort of Miquella. After the fight is over, Sir Ansbach's body will be near the site of grace, alongside with his equipment and this Incantation.&nbsp;</li>"
+            },
+            "401EA74B": {
+                "name": "Igon's Bell Bearing",
+                "type": "quest",
+                "hint": "<li>Found on the body of Igon after killing&nbsp;Bayle The Dread. His body is found where you last spoke to him, near the double&nbsp;Jagged Peak Drake&nbsp;fight.&nbsp;</li>"
+            },
+            "401EA7A8": {
+                "name": "Ring of Miquella",
+                "type": "quest",
+                "hint": "<li>Obtained by Pre-Ordering Shadow of the Erdtree DLC, or awarded after killing a DLC boss with a player who received it via pre-order (but not with someone who received the gesture from someone else).</li>"
+            },
+            "401E8C64": {
+                "name": "Priestess Heart",
+                "type": "quest",
+                "hint": "<li>Grand Altar of Dragon Communion (After defeating Bayle)</li>"
+            },
+            "401EA8F5": {
+                "name": "Forager Brood Cookbook [7]",
+                "type": "quest",
+                "hint": "<li>Requires helping the injured Forager Brood outside the&nbsp;Church of the Crusade&nbsp;by dropping a&nbsp;Warming Stone&nbsp;or&nbsp;Sunwarmth stone&nbsp;next to it.&nbsp;Acquired by selecting the option \"Talk to Moore\" when speaking with Moore after obtaining the Forager Brood Cookbook (4).</li>"
+            }
+        }
+    }
+}

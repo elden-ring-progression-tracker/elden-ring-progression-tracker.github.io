@@ -3,7 +3,8 @@
         "name": "Memory Stone",
         "id": [
             46,
-            39
+            39,
+            0
         ],
         "places": [
             "Oridys's Rise",
@@ -20,7 +21,8 @@
         "name": "Talisman Pouch",
         "id": [
             56,
-            39
+            39,
+            0
         ],
         "places": [
             "Stormhill",
@@ -32,7 +34,8 @@
         "name": "Cracked Pot",
         "id": [
             28,
-            37
+            37,
+            0
         ],
         "places": [
             "Stormveil Castle",
@@ -61,7 +64,8 @@
         "name": "Ritual Pot",
         "id": [
             29,
-            37
+            37,
+            0
         ],
         "places": [
             "Laskyar Ruins",
@@ -80,7 +84,8 @@
         "name": "Perfume Bottle",
         "id": [
             38,
-            37
+            37,
+            0
         ],
         "places": [
             "Leyndell Royal Capital",
@@ -93,6 +98,26 @@
             "Perfumer's Grotto",
             "Altus Plateau",
             "Capital Outskirts"
+        ]
+    },
+    {
+        "name": "Hefty Cracked Pot",
+        "id": [
+            156,
+            169,
+            30
+        ],
+        "places": [
+            "Scorched Ruins",
+            "Belurat Gaol",
+            "Belurat Gaol",
+            "Belurat Gaol",
+            "Bonny Village",
+            "Bonny Village",
+            "Shadow Keep",
+            "Cerulean Coast",
+            "Bonny Gaol",
+            "Lamenter's Gaol"
         ]
     }
 ]

@@ -276,7 +276,6 @@ function fetchInventory() {
     const inventory = Array.from(getInventory(slots[selected_slot]));
     id_list = split(inventory, dlcFile ? 8 : 16);
     id_list.forEach((raw_id, index) => (id_list[index] = getIdReversed(raw_id).toUpperCase()));
-    console.log(id_list);
     lastList = id_list;
 }
 
@@ -291,7 +290,10 @@ function toggleDisplay() {
 async function readJsonFiles() {
     try {
         let res = await fetch("assets/json/data.json");
-        itemsData = await res.json();
+        const itemsData1 = await res.json();
+        let res2 = await fetch("assets/json/dlcData.json");
+        const itemsData2 = await res2.json();
+        itemsData = { ...itemsData1, ...itemsData2 };
         res = await fetch("assets/json/collectibles.json");
         quantifiableItems = await res.json();
         res = await fetch("assets/json/collection.json");
@@ -365,7 +367,7 @@ function findItemQuantities(slot) {
     for (let i = 0; i < slot.byteLength - 4; i++) {
         for (let j = 0; j < quantifiableItems.length; j++) {
             const item = quantifiableItems[j];
-            if (slot[i] === item.id[0] && slot[i + 1] === item.id[1] && slot[i + 2] === 0 && slot[i + 3] === 176) {
+            if (slot[i] === item.id[0] && slot[i + 1] === item.id[1] && slot[i + 2] === item.id[2] && slot[i + 3] === 176) {
                 result[j] = slot[i + 4];
             }
         }
